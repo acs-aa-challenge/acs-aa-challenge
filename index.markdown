@@ -16,7 +16,7 @@ Prin această temă ne propunem următoarele obiective:
 - Îmbunătățirea abilității de a analiza și a compara performanța mai multor soluții.
 - Dezvoltarea abilității de a interpreta și prezenta rezultatele analizei.
 
-Tema are asociate 1.75 puncte dar puteți acumula mai multe puncte cu diferite bonusuri. 
+Tema are asociate în total 1.75 puncte dar puteți acumula mai multe puncte cu diferite bonusuri. 
 
 ## Timeline
 
@@ -25,7 +25,7 @@ Tema are asociate 1.75 puncte dar puteți acumula mai multe puncte cu diferite b
 Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest formular [TODO]. Tema va fi alocată folosind 
 un script automat, în funcție de ordinea completării formularului și opțiunile alese.
 
-### Etapa 1 - [10%]
+### Etapa 1 - 10% din punctajul total
 
 Pentru prima etapă veți redacta un document de 1-2 pagini, care va reprezenta punctul de plecare pentru etapa finala. Documentul va avea următoarea structură:
 
@@ -41,9 +41,9 @@ Detaliați cum ați întocmi un set de teste pentru a valida corectitudinea, res
 
 - Înainte de a vă apuca de scris, este util să vă documentați din mai multe surse pentru a înțelege mai bine problema și soluțiile sale.
 - Scopul principal al acestei etape este să primiți sugestii de îmbunătățire referitoare la modalitatea de rezolvare a problemei propuse sau legate de redactarea documentului. Este foarte important atât pentru această etapă, cât si pentru celelalte, să încercați să oferiți cât mai multe detalii.
-- Cerința legată de evaluarea soluțiilor valorează 60\% din punctajul alocat etapei! Pentru o evaluare riguroasă, în alegerea testelor trebuie să țineți cont atât de dimensiunea datelor de intrare, cât și de alte proprietăți specifice problemei.
+- Cerința legată de evaluarea soluțiilor valorează 60% din punctajul alocat etapei! Pentru o evaluare riguroasă, în alegerea testelor trebuie să țineți cont atât de dimensiunea datelor de intrare, cât și de alte proprietăți specifice problemei.
 
-### Etapa 2 - 40% punctaj
+### Etapa 2 - 40% din punctajul total
 
 Aceasta etapă va consta din:
 
@@ -56,7 +56,37 @@ Aceasta etapă va consta din:
 - Temele vor fi verificate automat, pe testele propuse de voi, respectiv pe un set de teste private.
 - Atât testele, cât și soluțiile propriu-zise pot fi realizate într-un limbaj la alegerea voastră dar nu aveți voie să folosiți biblioteci externe.
 
-### Etapa 3 - 50% punctaj
+### Etapa 3 - 50% din punctajul total
 
+Pentru această etapă veți finaliza studiul comparativ început la etapa 1. Acesta va fi structurat în felul următor:
 
+1. **Introducere** [10%]
+- Descrierea problemei rezolvate. [1%]
+- Exemple de aplicații practice pentru problema aleasă. [4%]
+- Specificarea soluțiilor alese. [1%]
+- Specificarea criteriilor de evaluare alese pentru validarea soluțiilor. [4%]
+2. **Prezentarea soluțiilor** [40%]
+- Descrierea modului în care funcționeaza algoritmii aleși. [10%]
+- Analiza complexitații soluțiilor. [15%]
+- Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [15%]
+3. **Evaluare** [40%]
+- Descrierea modalitații de construire a setului de teste folosite pentru validare. [9%]
+- Menționați specificațiile sistemului de calcul pe care ați rulat testele (procesor, memorie disponibilă). [1%]
+- Ilustrarea, folosind grafice/tabele, a rezultatelor evaluării soluțiilor pe setul de teste. [20%]
+- Interpretarea, succintă, a valorilor obținute pe teste. Dacă apar valori neașteptate, încercați să oferiți o explicație. [10%]
+4. **Concluzii** [6%]
+  - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [6%]
+5. **Bibliografie** [2%]
+
+**Format document** [2%]:
+Pentru realizarea documentului **veți folosi formatul LNCS**. Template-urile pentru Latex si Word sunt 
+disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). 
+Temele care nu vor respectă formatul LNCS vor fi penalizate.
+
+**Indicații**
+- Vă recomandăm să lucrați în Latex.
+- Este important să respectaţi exact formatul si toate subsecţiunile, pentru a le putea identifica uşor la corectare.
+- Încercați să oferiți cât mai multe detalii și să existe **suficiente** grafice și tabele pentru experimentele făcute de voi.
+Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate informațiile cerute.
+- Orientativ, o lucrare bună va avea 8-10 pagini dar nu punctăm numărul propriu-zis de pagini, ci conținutul acestora.
 
