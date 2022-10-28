@@ -6,7 +6,8 @@ permalink: /trimitere/
 
 ## Etapa 0
 
-Înscrieți-vă opțiunea în sheetul corespunzător semigrupei voastre. **\color{burntorange**Sheet-ul va fi publicat in data de 14.10 la ora 20 pe moodle.** În cadrul unei semigrupe nu este permis ca doi studenți să aleagă aceiași algoritmi.
+Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular. Tema va fi alocată folosind un script automat, în funcție de ordinea completării formularului și opțiunile alese. Formularul va fi accesibil începând cu data de 1.11, la ora 20. 
+Vineri, 4.11, vom publica alocarea subiectelor pentru fiecare student.
 
 ## Etapa 1
 
@@ -22,31 +23,31 @@ Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmch
 
 În principiu arhiva va conține:
     
-    - **Sursele pentru algoritmii utilizați**, respectând structura sugerată la fiecare problemă.
+- **Sursele pentru algoritmii utilizați**, respectând structura sugerată la fiecare problemă.
 
-    - **Setul de date de test**:
-            - Testele de intrare se vor afla într-un folder numit **"in"**.                
-            Fiecare test se va numi "testX.in", unde X reprezintă ID-ul testului. (ex: "test1.in")
-            - Rezultatele corecte pentru fiecare test se vor afla într-un folder numit **"out"**.                
-            Fiecare rezultat se va numi "testX.out", unde X reprezintă ID-ul testului. (ex: "test1.out")                
+- **Setul de date de test**:
+        - Testele de intrare se vor afla într-un folder numit **"in"**.                
+        Fiecare test se va numi "testX.in", unde X reprezintă ID-ul testului. (ex: "test1.in")
+        - Rezultatele corecte pentru fiecare test se vor afla într-un folder numit **"out"**.                
+        Fiecare rezultat se va numi "testX.out", unde X reprezintă ID-ul testului. (ex: "test1.out")                
 
-    - Programul folosit pentru generarea testelor (dacă a fost necesar).
+- Programul folosit pentru generarea testelor (dacă a fost necesar).
 
-    - Fișierul **Makefile**.
-    
-        - Pentru fiecare algoritm implementat, trebuie să existe o regulă corespunzatoare de run. 
-        - Vom folosi următoarea convenție de denumire/evaluare: "make run-p1" - pentru testarea algoritmului 1, "make run-p2" - pentru testarea celui de-al doilea algoritm, etc.
-        - Vă recomandăm să includeți o regulă separată de run pentru cel mai bun algoritm evaluat, "run-best".
-        - Pentru compilare este suficientă o singură regulă de build ("make build"). Dacă lucrați într-un limbaj interpretat (e.g. Python) sunt suficiente doar regulile de run.
-        - Regulă de **clean**.
+- Fișierul **Makefile**.
 
-    - Fișierul **README**, în care veți menționa:
-    
-        - Numele și grupa.
-        - Ce reprezintă fiecare fișier din arhivă.
-        - Alte detalii speciale legate de evaluare.
-        - **Sursele exacte dacă ați preluat conținut din surse externe (e.g. teste, secvență de cod)**.
-            - Mentionați referința directă (de exemplu, pagina web/pagina dintr-o carte/lucrare de cercetare)
+    - Pentru fiecare algoritm implementat, trebuie să existe o regulă corespunzatoare de run. 
+    - Vom folosi următoarea convenție de denumire/evaluare: "make run-p1" - pentru testarea algoritmului 1, "make run-p2" - pentru testarea celui de-al doilea algoritm, etc.
+    - Vă recomandăm să includeți o regulă separată de run pentru cel mai bun algoritm evaluat, "run-best".
+    - Pentru compilare este suficientă o singură regulă de build ("make build"). Dacă lucrați într-un limbaj interpretat (e.g. Python) sunt suficiente doar regulile de run.
+    - Regulă de **clean**.
+
+- Fișierul **README**, în care veți menționa:
+
+    - Numele și grupa.
+    - Ce reprezintă fiecare fișier din arhivă.
+    - Alte detalii speciale legate de evaluare.
+    - **Sursele exacte dacă ați preluat conținut din surse externe (e.g. teste, secvență de cod)**.
+        - Mentionați referința directă (de exemplu, pagina web/pagina dintr-o carte/lucrare de cercetare)
         
 Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
 **obligatoriu**, folosind ID-ul vostru de Moodle.

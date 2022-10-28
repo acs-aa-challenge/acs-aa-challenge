@@ -22,10 +22,12 @@ Tema are asociate în total 1.75 puncte dar puteți acumula mai multe puncte cu 
 
 ### Etapa 0
 
-Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest formular [TODO]. Tema va fi alocată folosind 
-un script automat, în funcție de ordinea completării formularului și opțiunile alese.
+Detalile referitoare la alegerea subiectului temei sunt disponibile <a href="./trimitere">aici</a>.
+<!-- Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest formular [TODO]. Tema va fi alocată folosind  -->
+<!-- un script automat, în funcție de ordinea completării formularului și opțiunile alese. -->
 
 ### Etapa 1 - 10% din punctajul total
+#### Deadline - 18.11.2022 
 
 Pentru prima etapă veți redacta un document de 1-2 pagini, care va reprezenta punctul de plecare pentru etapa finala. Documentul va avea următoarea structură:
 
@@ -45,6 +47,8 @@ Detaliați cum ați întocmi un set de teste pentru a valida corectitudinea, res
 
 ### Etapa 2 - 40% din punctajul total
 
+#### Deadline - 9.12.2022 (deadline soft)
+
 Aceasta etapă va consta din:
 
 - [50%] **Implementarea efectivă a soluțiilor alese**, respectând indicațiile specificate în secțiunea problemei alese.
@@ -56,7 +60,12 @@ Aceasta etapă va consta din:
 - Temele vor fi verificate automat, pe testele propuse de voi, respectiv pe un set de teste private.
 - Atât testele, cât și soluțiile propriu-zise pot fi realizate într-un limbaj la alegerea voastră dar nu aveți voie să folosiți biblioteci externe.
 
+Acesta etapă va avea un deadline **soft**, cu penalizări de 5% din punctajul etapei pentru fiecare zi de întârziere. Penalizările sunt limitate la cel mult 30% din punctajul total alocat etapei. Deadline-ul hard al acestei etape coincide cu cel pentru etapa 3.
+
 ### Etapa 3 - 50% din punctajul total
+#### Deadline - 28.12.2022 (deadline soft) - 30.12.2022 (deadline hard)
+
+Atenție, acesta etapă are un deadline **hard**!
 
 Pentru această etapă veți finaliza studiul comparativ început la etapa 1. Acesta va fi structurat în felul următor:
 

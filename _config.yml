@@ -40,6 +40,7 @@ include:
 header_pages:
   - pages/probleme.md
   - pages/recomandari.md
+  - pages/trimitere.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
