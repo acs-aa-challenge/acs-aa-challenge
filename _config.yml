@@ -39,7 +39,7 @@ include:
 
 header_pages:
   - pages/probleme.md
-  - pages/redactare.md
+  - pages/recomandari.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

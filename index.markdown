@@ -8,7 +8,7 @@ title: Cerință
 permalink: /cerinta/
 ---
 
-Realizați un studiu comparativ (orientativ, 8-10 pagini) privind principalii algoritmi care rezolvă o problemă aleasă de voi, din lista de mai jos. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
+Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din lista de mai jos. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
 Prin această temă ne propunem următoarele obiective:
 
