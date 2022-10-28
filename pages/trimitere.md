@@ -4,55 +4,56 @@ title: Trimiterea Temei
 permalink: /trimitere/
 ---
 
-    - **Etapa 0**
-    
-    Înscrieți-vă opțiunea în sheetul corespunzător semigrupei voastre. **\color{burntorange**Sheet-ul va fi publicat in data de 14.10 la ora 20 pe moodle.** În cadrul unei semigrupe nu este permis ca doi studenți să aleagă aceiași algoritmi.
-    
-    - **Etapa 1**    
-    Veți încărca pe Moodle o arhivă care va conține documentul în format .pdf.
-    Documentul se va numi **NumărSubiect.pdf** unde în loc de NumărSubiect veți trece numărul problemei alese - (ex: "1.pdf" pentru primul subiect)
-    
-    Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, **obligatoriu**, folosind ID-ul vostru de Moodle.
-    De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
+## Etapa 0
 
-    - **Etapa 2**
+Înscrieți-vă opțiunea în sheetul corespunzător semigrupei voastre. **\color{burntorange**Sheet-ul va fi publicat in data de 14.10 la ora 20 pe moodle.** În cadrul unei semigrupe nu este permis ca doi studenți să aleagă aceiași algoritmi.
 
-    Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmchecker)
+## Etapa 1
 
-    În principiu arhiva va conține:
+Veți încărca pe Moodle o arhivă care va conține documentul în format .pdf.
+Documentul se va numi **NumărSubiect.pdf** unde în loc de NumărSubiect veți trece numărul problemei alese - (ex: "1.pdf" pentru primul subiect)
+
+Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, **obligatoriu**, folosind ID-ul vostru de Moodle.
+De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
+
+## Etapa 2
+
+Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmchecker)
+
+În principiu arhiva va conține:
+    
+    - **Sursele pentru algoritmii utilizați**, respectând structura sugerată la fiecare problemă.
+
+    - **Setul de date de test**:
+            - Testele de intrare se vor afla într-un folder numit **"in"**.                
+            Fiecare test se va numi "testX.in", unde X reprezintă ID-ul testului. (ex: "test1.in")
+            - Rezultatele corecte pentru fiecare test se vor afla într-un folder numit **"out"**.                
+            Fiecare rezultat se va numi "testX.out", unde X reprezintă ID-ul testului. (ex: "test1.out")                
+
+    - Programul folosit pentru generarea testelor (dacă a fost necesar).
+
+    - Fișierul **Makefile**.
+    
+        - Pentru fiecare algoritm implementat, trebuie să existe o regulă corespunzatoare de run. 
+        - Vom folosi următoarea convenție de denumire/evaluare: "make run-p1" - pentru testarea algoritmului 1, "make run-p2" - pentru testarea celui de-al doilea algoritm, etc.
+        - Vă recomandăm să includeți o regulă separată de run pentru cel mai bun algoritm evaluat, "run-best".
+        - Pentru compilare este suficientă o singură regulă de build ("make build"). Dacă lucrați într-un limbaj interpretat (e.g. Python) sunt suficiente doar regulile de run.
+        - Regulă de **clean**.
+
+    - Fișierul **README**, în care veți menționa:
+    
+        - Numele și grupa.
+        - Ce reprezintă fiecare fișier din arhivă.
+        - Alte detalii speciale legate de evaluare.
+        - **Sursele exacte dacă ați preluat conținut din surse externe (e.g. teste, secvență de cod)**.
+            - Mentionați referința directă (de exemplu, pagina web/pagina dintr-o carte/lucrare de cercetare)
         
-        - **Sursele pentru algoritmii utilizați**, respectând structura sugerată la fiecare problemă.
+Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
+**obligatoriu**, folosind ID-ul vostru de Moodle.
+De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
 
-        - **Setul de date de test**:
-                - Testele de intrare se vor afla într-un folder numit **"in"**.                
-                Fiecare test se va numi "testX.in", unde X reprezintă ID-ul testului. (ex: "test1.in")
-                - Rezultatele corecte pentru fiecare test se vor afla într-un folder numit **"out"**.                
-                Fiecare rezultat se va numi "testX.out", unde X reprezintă ID-ul testului. (ex: "test1.out")                
+## Etapa 3
 
-        - Programul folosit pentru generarea testelor (dacă a fost necesar).
-
-        - Fișierul **Makefile**.
-        
-            - Pentru fiecare algoritm implementat, trebuie să existe o regulă corespunzatoare de run. 
-            - Vom folosi următoarea convenție de denumire/evaluare: "make run-p1" - pentru testarea algoritmului 1, "make run-p2" - pentru testarea celui de-al doilea algoritm, etc.
-            - Vă recomandăm să includeți o regulă separată de run pentru cel mai bun algoritm evaluat, "run-best".
-            - Pentru compilare este suficientă o singură regulă de build ("make build"). Dacă lucrați într-un limbaj interpretat (e.g. Python) sunt suficiente doar regulile de run.
-            - Regulă de **clean**.
-    
-        - Fișierul **README**, în care veți menționa:
-        
-            - Numele și grupa.
-            - Ce reprezintă fiecare fișier din arhivă.
-            - Alte detalii speciale legate de evaluare.
-            - **Sursele exacte dacă ați preluat conținut din surse externe (e.g. teste, secvență de cod)**.
-                - Mentionați referința directă (de exemplu, pagina web/pagina dintr-o carte/lucrare de cercetare)
-            
-    Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
-    **obligatoriu**, folosind ID-ul vostru de Moodle.
-    De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
-
-    - **Etapa 3**
-    
-    Veți încărca pe Moodle o arhivă care va conține documentul final în format .pdf. Documentul se va numi "**EtapaFinala.pdf**".
-    Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
-    **obligatoriu**, folosind ID-ul vostru de Moodle. De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
+Veți încărca pe Moodle o arhivă care va conține documentul final în format .pdf. Documentul se va numi "**EtapaFinala.pdf**".
+Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
+**obligatoriu**, folosind ID-ul vostru de Moodle. De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
