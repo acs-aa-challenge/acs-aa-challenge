@@ -5,7 +5,7 @@ permalink: /2-lca/
 ---
 
 # Descriere
-Se dă un arbore $$T$$ cu $$N$$ noduri și apoi se fac $$M$$ interogări astfel: pentru fiecare interogare se dau 2 noduri $$u$$ și $$v$$. Trebuie să returnați nodul $$w$$ cu cea mai mare adâncime din $$T$$ care este strămoș atât pentru $$u$$, cât și pentru $$v$$.
+Se dă un arbore $$T$$ cu $$N$$ noduri și apoi se fac $$M$$ interogări. Pentru fiecare interogare se dau 2 noduri $$u$$ și $$v$$. Trebuie să returnați nodul $$w$$ cu cea mai mare adâncime din $$T$$ care este strămoș atât pentru $$u$$, cât și pentru $$v$$.
 
 # Precizări
 
