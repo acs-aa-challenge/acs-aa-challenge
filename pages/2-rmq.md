@@ -28,5 +28,5 @@ Dat fiind un vector $$A$$ cu $$N$$ elemente de tip întreg, răspundeți eficien
 - **Format date ieșire**    
     - $$M$$ linii care vor conține un singur număr reprezentând răspunsul la fiecare interogare.
 - **Restricții**
-    - $1 \leq N, M \leq 1000000$
-    - $1 \leq x, y \leq N$
+    - $$1 \leq N, M \leq 1000000$$
+    - $$1 \leq x, y \leq N$$
