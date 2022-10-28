@@ -42,6 +42,14 @@ header_pages:
   - pages/recomandari.md
   - pages/trimitere.md
 
+problem_set:
+  - pages/1-hybrid-sorting.md
+  - pages/2-rmq.md
+  - pages/3-sets-1.md
+  - pages/4-sets-2.md
+  - pages/5-pq.md
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

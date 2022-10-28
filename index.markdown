@@ -27,7 +27,7 @@ Detalile referitoare la alegerea subiectului temei sunt disponibile <a href="./t
 <!-- un script automat, în funcție de ordinea completării formularului și opțiunile alese. -->
 
 ### Etapa 1 - 10% din punctajul total
-#### Deadline - 18.11.2022 
+#### Deadline - 18.11.2022 (deadline hard)
 
 Pentru prima etapă veți redacta un document de 1-2 pagini, care va reprezenta punctul de plecare pentru etapa finala. Documentul va avea următoarea structură:
 
@@ -44,6 +44,8 @@ Detaliați cum ați întocmi un set de teste pentru a valida corectitudinea, res
 - Înainte de a vă apuca de scris, este util să vă documentați din mai multe surse pentru a înțelege mai bine problema și soluțiile sale.
 - Scopul principal al acestei etape este să primiți sugestii de îmbunătățire referitoare la modalitatea de rezolvare a problemei propuse sau legate de redactarea documentului. Este foarte important atât pentru această etapă, cât si pentru celelalte, să încercați să oferiți cât mai multe detalii.
 - Cerința legată de evaluarea soluțiilor valorează 60% din punctajul alocat etapei! Pentru o evaluare riguroasă, în alegerea testelor trebuie să țineți cont atât de dimensiunea datelor de intrare, cât și de alte proprietăți specifice problemei.
+
+Atenție! Deadline-ul acestei etape este **hard**! Astfel, veți putea primi feedback la timp care să vă ajute pentru etapele următoare.
 
 ### Etapa 2 - 40% din punctajul total
 

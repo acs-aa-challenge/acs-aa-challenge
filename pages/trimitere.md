@@ -6,7 +6,7 @@ permalink: /trimitere/
 
 ## Etapa 0
 
-Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular. Tema va fi alocată folosind un script automat, în funcție de ordinea completării formularului și opțiunile alese. Formularul va fi accesibil începând cu data de 1.11, la ora 20. 
+Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular. Tema va fi alocată folosind un script automat, în funcție de ordinea completării formularului și opțiunile alese. **Formularul va fi accesibil începând cu data de 1.11, la ora 20.** 
 Vineri, 4.11, vom publica alocarea subiectelor pentru fiecare student.
 
 ## Etapa 1
