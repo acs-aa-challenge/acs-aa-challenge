@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Vertex Cover
-permalink: /11-np-3-vc/
+title: K-Clique
+permalink: /18-np-2-clique/
+tags: [np-complete, graphs, hard]
 ---
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, astfel încât 
-fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, în care fiecare nod este 
+conectat direct cu toate celelalte noduri (nodurile formează o clică)?
 
 # Precizări
 
@@ -33,7 +34,7 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 #### Format date ieșire
 
-- Dacă în graf există cel puțin o K-acoperire, afișați cele K noduri care o compun pe o singură linie.
+- Dacă în graf există cel puțin o K-clică, afișați cele K noduri care o compun pe o singură linie.
 - Altfel, afișați mesajul: "Nu există soluție."
 
 #### Restricții

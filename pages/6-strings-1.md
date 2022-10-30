@@ -2,6 +2,7 @@
 layout: page
 title: String Matching
 permalink: /6-strings-1/
+tags: [strings]
 ---
 
 # Descriere

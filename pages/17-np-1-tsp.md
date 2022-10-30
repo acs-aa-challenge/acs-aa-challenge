@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Traveling Salesman
-permalink: /11-np-1-tsp/
+permalink: /17-np-1-tsp/
+tags: [np-complete, graphs, hard]
 ---
 
 # Descriere

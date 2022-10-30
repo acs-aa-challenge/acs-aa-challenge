@@ -4,8 +4,8 @@
 # Analiza Algoritmilor - Tema 1 - 2022
 
 layout: home
-title: Cerință 
-permalink: /cerinta/
+title: Cerință
+[//]: # (permalink: /cerinta/)
 ---
 
 Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din lista de mai jos. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 

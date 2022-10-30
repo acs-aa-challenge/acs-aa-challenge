@@ -1,12 +1,13 @@
 ---
 layout: page
 title: MaxFlow
-permalink: /18-maxflow/
+permalink: /15-maxflow/
+tags: [graphs, hard]
 ---
 
 # Descriere
 
-Se dă un graf orientat cu $$N$$ noduri și $$M$$ muchii. Fiecare muchie are o anumită capacitate - prin fiecare muchie putem 
+Fie un graf orientat cu $$N$$ noduri și $$M$$ muchii. Fiecare muchie are o anumită capacitate - prin fiecare muchie putem 
 transporta o anumită cantitate de informaţie. Mai mult, există un nod special numit sursă, $$S$$, de unde poate pleca oricâtă 
 informaţie, şi un nod special numit destinaţie, $$D$$, care poate primi oricâtă informaţie. Singura limitare este dată de 
 capacităţile muchiilor. Astfel, antitatea de informație care intră într-un nod trebuie să fie egală cu cea care iese din nod
@@ -17,8 +18,8 @@ capacităţile muchiilor. Astfel, antitatea de informație care intră într-un 
 - Comparați trei algoritmi (ex: Ford-Fulkerson, Edmonds-Karp, Dinic, Push-relabel, etc.)
   - Puteți opta pentru un algoritm naiv (Ford-Fulkerson) și doi mai eficienți.
 - Testați folosind grafuri cu dimensiuni variabile, respectiv dimensiuni variabile relative între N şi M, 
-de exemplu $$M < N, M = N, M = N log N, M = N * \sqrt N, M\sim\ {N^2}$$.
-- Analizați și impactul asupra performanței determinat de structura grafului.
+de exemplu $$M << N, M = N, M = N log N, M = N * \sqrt N, M\sim\ {N^2}$$.
+- Analizați și cum influențează structura internă a grafului performanța algoritmiilor.
 
 # Structură teste
 

@@ -1,13 +1,15 @@
 ---
 layout: page
-title: K-Clique
-permalink: /11-np-2-clique/
+title: K-Colour
+permalink: /20-np-4-col/
+tags: [np-complete, graphs, hard]
 ---
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, în care fiecare nod este 
-conectat direct cu toate celelalte noduri (nodurile formează o clică)?
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Dacă avem la dispoziție $$K$$ culori, există posibilitatea
+de a colora fiecare nod din graf cu câte o culoare, astfel încât oricare doua noduri adiacente (conectate printr-o muchie directă)
+să aibă culori diferite?
 
 # Precizări
 
@@ -33,7 +35,8 @@ conectat direct cu toate celelalte noduri (nodurile formează o clică)?
 
 #### Format date ieșire
 
-- Dacă în graf există cel puțin o K-clică, afișați cele K noduri care o compun pe o singură linie.
+- Dacă în posibilitatea de a colora toate nodurile din graf astfel încât să respectăm constrângerile din enunț 
+afișați pe prima linie N valori reprezentând culorile asociate fiecărui nod.
 - Altfel, afișați mesajul: "Nu există soluție."
 
 #### Restricții
@@ -41,4 +44,4 @@ conectat direct cu toate celelalte noduri (nodurile formează o clică)?
 - $$ 1 \leq N, K \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
 - $$ 1 \leq X, Y \leq N$$
-- Nodurile sunt numerotate de la 0 la N-1.
+- Nodurile și culorile sunt numerotate de la 0.

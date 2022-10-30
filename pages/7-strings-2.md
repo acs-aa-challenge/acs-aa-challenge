@@ -2,6 +2,7 @@
 layout: page
 title: Distanța Levenshtein
 permalink: /7-strings-2/
+tags: [strings, data structures]
 ---
 
 # Descriere

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Cuplaj Maxim în Graf Bipartit
-permalink: /19-matching/
+permalink: /16-matching/
+tags: [graphs, hard]
 ---
 
 # Descriere
@@ -15,7 +16,8 @@ Un cuplaj maxim este un cuplaj de cardinalitate maximă. Determinați cuplajul m
 # Precizări
 
 - Comparați algoritmii Ford-Fulkerson și Hopcroft Karp.
-- Analizați cum este afectată performanța algoritmilor în funcție de particularitățile grafului.
+- Analizați cum este afectată performanța algoritmilor în funcție de particularitățile grafului (ex: numărul de noduri/muchii,
+structura internă a acestuia).
 
 # Structură teste
 
@@ -41,7 +43,7 @@ că nodul $$X$$ a fost cuplat cu nodul $$Y$$.
 #### Restricții
 
 - $$ 1 \leq N \leq 2 * 10^4$$
-- $$ 1 \leq M \leq min(N^2, 10^5)$$
+- $$ 1 \leq S \leq M \leq min(N^2, 10^5)$$
 - $$ 1 \leq X, Y \leq N$$
 - $$ -10^6 \leq C \leq 10^6$$
 - Nodurile sunt numerotate de la 0 la $$N-1$$.

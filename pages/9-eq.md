@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Rezolvarea sistemelor de ecuații
-permalink: /8-eq/
+permalink: /9-eq/
+tags: [math]
 ---
 
 # Descriere
@@ -19,15 +20,15 @@ Se cere să se rezolve un sistem de ecuații de tip $$Ax = B$$, unde $$A$$ și $
 
 #### Format date intrare
 
-    - Pe prima linie se citesc $$N$$ și $$M$$, numărul de linii și numarul de coloane ale sistemului.
-    - Pe următoarele $$N$$ linii se citesc valorile $$A[i][j]$$ ale sistemului.
-    - Pe ultima linie se vor citi cele $$N$$ valori pentru vectorul $$B$$.
+- Pe prima linie se citesc $$N$$ și $$M$$, numărul de linii și numarul de coloane ale sistemului.
+- Pe următoarele $$N$$ linii se citesc valorile $$A[i][j]$$ ale sistemului.
+- Pe ultima linie se vor citi cele $$N$$ valori pentru vectorul $$B$$.
 
 #### Format date ieșire
 
-    - Se afișează pe o singura linie valorile pentru $$x[i]$$ sau, dacă nu se pot determina, se afișează mesajul "Sistem incompatibil", respectiv "Sistem compatibil nedeterminat".
+- Se afișează pe o singura linie valorile pentru $$x[i]$$ sau, dacă nu se pot determina, se afișează mesajul "Sistem incompatibil", respectiv "Sistem compatibil nedeterminat".
 
 #### Restricții
 
-    - $$1 \leq N, M \leq 100$$
+- $$1 \leq N, M \leq 100$$
     

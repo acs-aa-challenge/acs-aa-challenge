@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Shortest Path (1)
-permalink: /15-sp/
+permalink: /11-sp/
+tags: [graphs]
 ---
 
 # Descriere

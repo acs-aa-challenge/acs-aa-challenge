@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Mulțimi (1)
-permalink: /3-sets-1/
+permalink: /2-sets-1/
+tags: [data structures]
 ---
 
 # Descriere
@@ -23,7 +24,8 @@ specific unei mulțimi:
 - Pentru arbori binari de căutare echilibrați trebuie prezentată doar pe scurt complexitatea temporală pentru cazul cel mai defavorabil.
 
 # Structură teste
-- **Format date intrare**
+
+#### Format date intrare
   - Pe prima linie se află numărul $$N$$ de query-uri 
   - Pe următoarele $$N$$ linii se află câte un query de forma:
     - 0 a - Se adaugă elementul 'a' în mulțime
@@ -32,11 +34,11 @@ specific unei mulțimi:
     - 3 a b - Elementul 'a' din mulțime (dacă există) este înlocuit cu elementul 'b'
     - 4 - Afișarea tuturor elementelor mulțimii
 
-- **Format date ieșire**
+#### Format date ieșire
   - Fișierul de ieșire va conține output-ul, **pe câte o linie**, corespunzător interogărilor de tipul 2, respectiv 4 (daca acestea există în fișierul de intrare). 
   - Pentru interogări de tipul 2, răspunsul va fi 1 (dacă elementul există) sau 0 (altfel).
   - Pentru interogări de tipul 4, răspunsul va consta în secvența de elemente, în orice ordine.
 
-- **Restricții**
+#### Restricții
   - $$ 1 \leq N \leq 10^5$$
   - $$ 1 \leq a, b \leq 10^6$$ 

@@ -12,7 +12,7 @@ Vă recomandăm (dar nu este obligatoriu) să folosiți tool-uri de benchmarking
 
 ## Redactare ##
 
-- **Evitați afirmațiile vagi**, neargumentate. ("după cum se spune", "cel mai folosit algoritm", "cel mai bun algoritm")
+- **Evitați afirmațiile vagi**, neargumentate (ex: "după cum se spune", "cel mai folosit algoritm", "cel mai bun algoritm").
 - Dacă preluați o informație, tabel, poza, grafic, etc. este **obligatoriu** să specificați sursa, respectiv să folosiți ghilimele atunci când preluați un paragraf nemodificat.
 - Puteți fi penalizați pentru folosirea unor termeni fară explicarea semnificației lor.
 (ex: "Complexitate $$O(n + r)$$" - fără a specifica cine este '$$r$$')
@@ -23,4 +23,4 @@ Vă recomandăm (dar nu este obligatoriu) să folosiți tool-uri de benchmarking
 - Într-un tabel în care comparați performanța unor algoritmi marcați cu bold cel mai bun rezultat.
 - Pentru editarea referințelor, puteți folosi funcția "cite" din Google Scholar. Mai multe detalii <a href="https://libguides.com.edu/c.php?g=649172&p=4554037">aici</a>.
 - Dacă doriți să adăugați o referință la un website, menționați data ultimei accesări.
-- Nu folosiți Wikipedia ca referință.
+- Nu folosiți Wikipedia ca referință directă.

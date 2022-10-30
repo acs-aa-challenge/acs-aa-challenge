@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Range Minimum Query
-permalink: /2-rmq/
+permalink: /5-rmq/
+tags: [data structures]
 ---
 
 # Descriere

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Shortest Path (2)
-permalink: /16-allsp/
+permalink: /12-allsp/
+tags: [graphs]
 ---
 
 # Descriere

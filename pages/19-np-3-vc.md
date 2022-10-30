@@ -1,14 +1,14 @@
 ---
 layout: page
-title: K-Colour
-permalink: /11-np-4-col/
+title: Vertex Cover
+permalink: /19-np-3-vc/
+tags: [np-complete, graphs, hard]
 ---
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Dacă avem la dispoziție $$K$$ culori, există posibilitatea
-de a colora fiecare nod din graf cu câte o culoare, astfel încât oricare doua noduri adiacente (conectate printr-o muchie directă)
-să aibă culori diferite?
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, astfel încât 
+fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 # Precizări
 
@@ -34,8 +34,7 @@ să aibă culori diferite?
 
 #### Format date ieșire
 
-- Dacă în posibilitatea de a colora toate nodurile din graf astfel încât să respectăm constrângerile din enunț 
-afișați pe prima linie N valori reprezentând culorile asociate fiecărui nod.
+- Dacă în graf există cel puțin o K-acoperire, afișați cele K noduri care o compun pe o singură linie.
 - Altfel, afișați mesajul: "Nu există soluție."
 
 #### Restricții
@@ -43,4 +42,4 @@ afișați pe prima linie N valori reprezentând culorile asociate fiecărui nod.
 - $$ 1 \leq N, K \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
 - $$ 1 \leq X, Y \leq N$$
-- Nodurile și culorile sunt numerotate de la 0.
+- Nodurile sunt numerotate de la 0 la N-1.

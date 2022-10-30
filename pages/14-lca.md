@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Lowest Common Ancestor
-permalink: /2-lca/
+permalink: /14-lca/
+tags: ["graphs"]
 ---
 
 # Descriere

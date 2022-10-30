@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compresia datelor
-permalink: /9-compression/
+permalink: /10-compression/
 ---
 
 # Descriere

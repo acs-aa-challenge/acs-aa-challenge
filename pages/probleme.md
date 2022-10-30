@@ -1,5 +1,5 @@
 ---
-layout: page
-title: Lista Probleme
+layout: probleme
+title: Lista de Probleme
 permalink: /probleme/
 ---

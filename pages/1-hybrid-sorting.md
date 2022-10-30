@@ -22,12 +22,12 @@ elemente identice, etc.
 
 # Structură teste
 
-- **Format date intrare**
+#### Format date intrare
   - Pe prima linie $$N$$ (numărul de elemente din secvență)
   - Pe a doua linie se vor afla $$N$$ numere întregi, reprezentabile pe 32 biți, separate prin spațiu. 
 
-- **Format date ieșire**
+#### Format date ieșire
   - Secvența cu cele $$N$$ elemente sortate ascendent.  
-  
-- **Restricții**
+
+#### Restricții
   - $$ 1 \leq N \leq 10^6 $$
