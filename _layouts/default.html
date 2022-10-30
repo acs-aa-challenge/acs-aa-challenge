@@ -3,10 +3,16 @@
 
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png?v=1.0">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png?v=1.0">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png?v=1.0">
-  <link rel="manifest" href="/favicon_io/site.webmanifest?v=1.0">
+<!--  <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >-->
+  <link rel="apple-touch-icon" sizes="180x180" href={{ "/favicon_io/apple-touch-icon.png?v=1.0"| prepend: site.baseurl }}>
+  <link rel="icon" type="image/png" sizes="32x32" href={{ "/favicon_io/favicon-32x32.png?v=1.0"| prepend: site.baseurl }}>
+  <link rel="icon" type="image/png" sizes="16x16" href={{ "/favicon_io/favicon-16x16.png?v=1.0" | prepend: site.baseurl }}>
+  <link rel="manifest" href={{ "/favicon_io/site.webmanifest?v=1.0" | prepend: site.baseurl }}>
+
+<!--  <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png?v=1.0">-->
+<!--  <link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png?v=1.0">-->
+<!--  <link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png?v=1.0">-->
+<!--  <link rel="manifest" href="/favicon_io/site.webmanifest?v=1.0">-->
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script type="text/javascript" id="MathJax-script" async
