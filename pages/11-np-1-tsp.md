@@ -28,8 +28,8 @@ S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi 
 
 #### Format date intrare
 
-- Pe prima linie se află două numere, $$N$$ și $$M$, reprezentând numărul de noduri, respectiv de muchii, separate printr-un spațiu.
-- Pe următoarele $$M$$ linii se află câte 3 numere naturale $$X$$, $$Y$$, $$C$$, cu semnificația că există o muchii între nodul X și Y
+- Pe prima linie se află două numere, $$N$$ și $$M$$, reprezentând numărul de noduri, respectiv de muchii, separate printr-un spațiu.
+- Pe următoarele $$M$$ linii se află câte 3 numere naturale $$X$$, $$Y$$, $$C$$, cu semnificația că există o muchie între nodul X și Y
   de lungime C.
 
 #### Format date ieșire

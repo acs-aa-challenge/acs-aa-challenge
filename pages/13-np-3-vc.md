@@ -28,8 +28,8 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 #### Format date intrare
 
-- Pe prima linie se află trei numere, $$N$$, $$M$ și $$K$$.
-- Pe următoarele $$M$$ linii se află câte 2 numere naturale $$X$$, $$Y$$, cu semnificația că există o muchii între nodul X și Y.
+- Pe prima linie se află trei numere, $$N$$, $$M$$ și $$K$$.
+- Pe următoarele $$M$$ linii se află câte 2 numere naturale $$X$$, $$Y$$, cu semnificația că există o muchie între nodul X și Y.
 
 #### Format date ieșire
 

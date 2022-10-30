@@ -5,7 +5,7 @@ permalink: /2-lca/
 ---
 
 # Descriere
-Se dă un arbore $$T$$ cu $$N$$ noduri și apoi se fac $$M$$ interogări. Pentru fiecare interogare se dau 2 noduri $$u$$ și $$v$$. Trebuie să returnați nodul $$w$$ cu cea mai mare adâncime din $$T$$ care este strămoș atât pentru $$u$$, cât și pentru $$v$$.
+Se dă un arbore $$T$$ cu $$N$$ noduri și apoi se fac $$M$$ interogări. Pentru fiecare interogare se dau două noduri $$u$$ și $$v$$. Trebuie să returnați nodul $$w$$ cu cea mai mare adâncime din $$T$$ care este strămoș atât pentru $$u$$, cât și pentru $$v$$.
 
 # Precizări
 
@@ -19,14 +19,15 @@ Se dă un arbore $$T$$ cu $$N$$ noduri și apoi se fac $$M$$ interogări. Pentru
 
 # Structură recomandată teste
 
-- Format date intrare
-    - Pe prima linie, $$N$$ (int - numărul de noduri din arbore), $$M$$ (int - numărul de interogări).
-    - Pe următoarele $$N-1$$ linii, câte o pereche de numere întregi, reprezentănd muchiile grafului.
-    - Pe fiecare dintre următoarele $$M$$ linii se vor afla 2 numere, reprezentând o interogare.
+#### Format date intrare
+    - Pe prima linie: $$N$$ (int - numărul de noduri din arbore), $$M$$ (int - numărul de interogări).
+    - Pe următoarele $$N-1$$ linii: câte o pereche de numere întregi, reprezentănd muchiile arborelui.
+    - Pe fiecare dintre următoarele $$M$$ linii se vor afla id-urile a câte două noduri, $$u$$ și $$v$$, reprezentând o interogare.
 
-- Format date ieșire
+#### Format date ieșire
     - $$M$$ linii care vor conține un singur număr reprezentând răspunsul la fiecare interogare.
 
-- Restricții:
+#### Restricții
     - $$2 \leq N, M \leq 1000000$$
-    
+    - Nodurile sunt numerotate de la 0 la $$N-1$$.
+
