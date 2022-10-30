@@ -11,6 +11,7 @@
     border-radius:25px;
     padding-right: .25em;
     padding-left: .10em;
+    z-index: -1;
 }
 
 .site-header {
@@ -20,4 +21,12 @@
     width: 100%;
     opacity: 1;
     background: #faf0d7
+}
+
+.page-heading {
+    margin-top: 1em;
+}
+
+.post-header {
+    margin-top: 3em;
 }
