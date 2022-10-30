@@ -17,19 +17,18 @@ Cerința este să comprimați, respectiv să decomprimați, **fără pierdere de
     
 # Structură recomandată teste
 
-- **Format date intrare**
+#### Format date intrare 
 
-    - Fișierele pot fi de orice tip (text, audio, video, etc.), cu extensia originală.
-    - Este foarte important să documentați caracteristicile acestora în Readme.
-    - Puteți defini propriile reguli pentru prelucrarea acestora în fișierul Makefile.
+  - Fișierele pot fi de orice tip (text, audio, video, etc.), cu extensia originală.
+  - Este foarte important să documentați caracteristicile acestora în Readme.
 
-- **Format date ieșire**
+#### Format date ieșire
 
-    - Fișierele comprimate echivalente testelor de intrare.
-    - Atenție: trebuie să implementați și operația de decomprimare, care trebuie să se realizeze fără pierdere de informații. 
-    - Practic, o execuție completă a programului de testare va consta în comprimarea fișierului inițial, decomprimarea într-un fișier temporar ("aux.in") și apoi compararea fișierului temporar cu cel inițial.
+  - Fișierele comprimate echivalente testelor de intrare.
+  - Atenție: trebuie să implementați și operația de decomprimare, care trebuie să se realizeze fără pierdere de informații. 
+  - Practic, o execuție completă a programului de testare va consta în comprimarea fișierului inițial, decomprimarea într-un fișier temporar ("aux.in") și apoi compararea fișierului temporar cu cel inițial.
 
-- **Restricții**
+#### Restricții
 
-    - (Orientativ) Un fișier de intrare să nu depăsească 10 MB.
+  - (Orientativ) Un fișier de intrare să nu depăsească 10 MB.
     

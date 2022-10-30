@@ -20,14 +20,14 @@ Fiind dat un set de date de intrare se dorește identificarea numerelor prime di
 
 # Structură teste
 
-- Format date intrare
+#### Format date intrare
     - Pe prima linie, $N$$ (int - numărul de elemente din secvență)
     - Pe următoarea linie $$N$$ numere întregi (reprezentabile pe 32 biți)
 
-- Format date ieșire
+#### Format date ieșire
     - Fiecare test va conține $$M$$ - numărul de elemente prime urmat de 
     secvența propriu-zisă de numerele prime extrase din secvența originală.
 
-- Restricții:s
+#### Restricții:
     - $$1 \leq N \leq 1000000$$
     
