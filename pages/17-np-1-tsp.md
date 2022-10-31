@@ -15,7 +15,7 @@ conține fiecare nod din graf o singură dată?
 - Aceasta este o problemă NP-Completă.
 - Veți compara cel puțin două soluții:
   1. O soluție care obține întotdeauna rezultatul corect (e.g. Held-Karp).
-  2. Un algoritm care obține un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
+  2. Un algoritm care obține un răspuns **apropiat** de cel corect și consumă o cantitate **rezonabilă** de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
 
 - Discutați care sunt compromisurile ce trebuie făcute pentru implementare și totodată explicați euristicile aplicate.
 - **Este important să măsurați cât de apropiat este rezultatul obținut de soluția voastră de rezultatul corect.**
@@ -24,6 +24,8 @@ Puteți porni de la un set de teste existent.
 
 - (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică. 
 S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
+
+- Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste
 
@@ -35,9 +37,10 @@ S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi 
 
 #### Format date ieșire
 
-- Pe prima linie se va afla $$S$$, lungimea celui mai scurt traseu, dacă acesta există. Altfel, dacă un traseu care
-să respecte condițiile problemei nu există, veți afișa mesajul "Nu există soluție.".
-
+- Pe prima linie se va afla $$S$$, lungimea celui mai scurt traseu, dacă acesta există. 
+- Pe a doua linie se vor afla $$N$$ numere, reprezentând ordinea în care vor fi vizitate nodurile de pe traseul ales.
+- Altfel, dacă un traseu care să respecte condițiile problemei nu există, veți afișa doar mesajul "Nu există soluție.".
+- 
 #### Restricții
 
 - $$ 1 \leq N \leq 20$$

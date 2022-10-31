@@ -1,15 +1,15 @@
 ---
 layout: page
-title: K-Colour
-permalink: /20-np-4-col/
+title: Colorarea Grafurilor
+permalink: /18-np-2-colouring/
 tags: [np-complete, graphs, hard]
 ---
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Dacă avem la dispoziție $$K$$ culori, există posibilitatea
-de a colora fiecare nod din graf cu câte o culoare, astfel încât oricare doua noduri adiacente (conectate printr-o muchie directă)
-să aibă culori diferite?
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Problema cere să asociem o culoare fiecărui nod, astfel încât oricare două noduri adiacente 
+(conectate printr-o muchie directă) să aibă culori diferite. Care este numărul **minim** de culori 
+necesare pentru a colora toate nodurile conform restricției menționate anterior?
 
 # Precizări
 
@@ -26,22 +26,23 @@ să aibă culori diferite?
 - (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
   S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
 
+- (Bonus): Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
+
 # Structură teste
 
 #### Format date intrare
 
-- Pe prima linie se află trei numere, $$N$$, $$M$$ și $$K$$.
+- Pe prima linie se află trei numere, $$N$$, $$M$$.
 - Pe următoarele $$M$$ linii se află câte 2 numere naturale $$X$$, $$Y$$, cu semnificația că există o muchie între nodul X și Y.
 
 #### Format date ieșire
 
-- Dacă în posibilitatea de a colora toate nodurile din graf astfel încât să respectăm constrângerile din enunț 
-afișați pe prima linie N valori reprezentând culorile asociate fiecărui nod.
-- Altfel, afișați mesajul: "Nu există soluție."
+- Pe prima linie, afișați $$K$$, numărul minim de culori necesare.
+- Pe a doua linie afișați $$N$$ valori, separate prin spațiu, reprezentând culorile asociate fiecărui nod.
 
 #### Restricții
 
-- $$ 1 \leq N, K \leq 20$$
+- $$ 1 \leq K \leq N \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
 - $$ 1 \leq X, Y \leq N$$
 - Nodurile și culorile sunt numerotate de la 0.

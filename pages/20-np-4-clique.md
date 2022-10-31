@@ -1,14 +1,14 @@
 ---
 layout: page
 title: K-Clique
-permalink: /18-np-2-clique/
+permalink: /20-np-4-clique/
 tags: [np-complete, graphs, hard]
 ---
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, în care fiecare nod este 
-conectat direct cu toate celelalte noduri (nodurile formează o clică)?
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, 
+în care fiecare nod este conectat direct cu toate celelalte noduri (nodurile formează o clică)?
 
 # Precizări
 
@@ -24,6 +24,8 @@ conectat direct cu toate celelalte noduri (nodurile formează o clică)?
 
 - (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
   S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
+
+- Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste
 

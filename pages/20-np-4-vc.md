@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vertex Cover
-permalink: /19-np-3-vc/
+permalink: /20-np-4-vc/
 tags: [np-complete, graphs, hard]
 ---
 
@@ -24,6 +24,10 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 - (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
   S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
+
+- (Bonus): Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
+
+- Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste
 
