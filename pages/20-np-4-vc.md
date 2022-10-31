@@ -7,7 +7,7 @@ tags: [np-complete, graphs, hard]
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Care este dimensiunea **minimă** a unui subgraf, $$K$$, astfel încât 
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Care este numărul **minim** de noduri, $$K$$, astfel încât 
 fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 # Precizări
@@ -44,7 +44,7 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 #### Restricții
 
-- $$ 1 \leq N \leq 20$$
+- $$ 1 \leq K \leq N \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
 - $$ 1 \leq X, Y \leq N$$
 - Nodurile sunt numerotate de la 0 la N-1.
