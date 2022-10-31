@@ -7,7 +7,7 @@ tags: [np-complete, graphs, hard]
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgraf cu $$K$$ noduri, astfel încât 
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Care este dimensiunea **minimă** a unui subgraf, $$K$$, astfel încât 
 fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 # Precizări
@@ -33,17 +33,18 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 #### Format date intrare
 
-- Pe prima linie se află trei numere, $$N$$, $$M$$ și $$K$$.
+- Pe prima linie se află două numere, $$N$$, $$M$$.
 - Pe următoarele $$M$$ linii se află câte 2 numere naturale $$X$$, $$Y$$, cu semnificația că există o muchie între nodul X și Y.
 
 #### Format date ieșire
 
-- Dacă în graf există cel puțin o K-acoperire, afișați cele K noduri care o compun pe o singură linie.
-- Altfel, afișați mesajul: "Nu există soluție."
+- Pe prima linie afișați $$K$$.
+- Pe a doua linie afișați indicii celor $$K$$ noduri, separate prin spații.
+- Dacă există mai multe soluțiî, se poate afișa oricare.
 
 #### Restricții
 
-- $$ 1 \leq N, K \leq 20$$
+- $$ 1 \leq N \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
 - $$ 1 \leq X, Y \leq N$$
 - Nodurile sunt numerotate de la 0 la N-1.
