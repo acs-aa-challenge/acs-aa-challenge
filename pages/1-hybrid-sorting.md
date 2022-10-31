@@ -11,7 +11,7 @@ sortării lor in ordine crescătoare.
 
 # Precizări
 
-- Pentru acest subiect veți analiza **doi algoritmi hibrizi de sortare**, IntroSort si TimSort.
+- Pentru acest subiect veți analiza cel puțin **doi algoritmi hibrizi de sortare** (ex: IntroSort, TimSort).
 - Pentru fiecare algoritm trebuie prezentat cazul cel mai favorabil, mediu și cel mai defavorabil
   din punct de vedere temporal. Din punct de vedere spațial e suficient să prezentați cazul cel
   mai defavorabil. 

@@ -6,8 +6,11 @@ permalink: /trimitere/
 
 ## Etapa 0
 
-Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular. Tema va fi alocată folosind un script automat, în funcție de ordinea completării formularului și opțiunile alese. **Formularul va fi accesibil începând cu data de 1.11, la ora 20.** 
-Vineri, 4.11, vom publica alocarea subiectelor pentru fiecare student.
+Pe 08.11.2022 vom publica un formular unde veți putea să vă înscrieți opțiunile de probleme, respectiv algoritmii preferați.
+Tema va fi alocată folosind un script automat, în funcție de ordinea completării formularului și opțiunile alese.
+
+[//]: # (Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular.  **Formularul va fi accesibil începând cu data de 1.11, la ora 20.** )
+[//]: # (Vineri, 4.11, vom publica alocarea subiectelor pentru fiecare student.)
 
 ## Etapa 1
 
@@ -19,10 +22,12 @@ De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se nume
 
 ## Etapa 2
 
-Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmchecker)
+Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmchecker pentru a valida structura arhivei)
 
 În principiu arhiva va conține:
-    
+
+- **Documentul final** în format .pdf. Documentul se va numi "**EtapaFinala.pdf**".
+
 - **Sursele pentru algoritmii utilizați**, respectând structura sugerată la fiecare problemă.
 
 - **Setul de date de test**:
@@ -31,7 +36,7 @@ Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmch
         - Rezultatele corecte pentru fiecare test se vor afla într-un folder numit **"out"**.                
         Fiecare rezultat se va numi "testX.out", unde X reprezintă ID-ul testului. (ex: "test1.out")                
 
-- Programul folosit pentru generarea testelor (dacă a fost necesar).
+- Programul folosit pentru generarea testelor.
 
 - Fișierul **Makefile**.
 
@@ -48,13 +53,6 @@ Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmch
     - Alte detalii speciale legate de evaluare.
     - **Sursele exacte dacă ați preluat conținut din surse externe (e.g. teste, secvență de cod)**.
         - Mentionați referința directă (de exemplu, pagina web/pagina dintr-o carte/lucrare de cercetare)
-        
-Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
-**obligatoriu**, folosind ID-ul vostru de Moodle.
+
+Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, **obligatoriu**, folosind ID-ul vostru de Moodle.
 De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"
-
-## Etapa 3
-
-Veți încărca pe Moodle o arhivă care va conține documentul final în format .pdf. Documentul se va numi "**EtapaFinala.pdf**".
-Deoarece soluțiile vor fi repartizate pentru corectare automat, arhiva va fi denumită, 
-**obligatoriu**, folosind ID-ul vostru de Moodle. De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se numească "ion.popescu.zip"

@@ -14,10 +14,10 @@ noduri din graf.
 
 - Comparați cel puțin trei algoritmi din lista de mai jos:
   - **Dijkstra** 
-    - Specificați complexitatea cu/fără heap-uri
+    - Specificați complexitatea cu/fără heap-uri.
   - **Bellman-Ford**
     - Comparați varianta cu, respectiv fără coadă.
-  - **Dijkstra - adaptat pentru costuri foarte mici ale muchiilor**
+  - **Dijkstra - adaptat pentru costuri foarte mici ale muchiilor** (Dial's algorithm)
   - O soluție cu complexitate liniară pentru grafuri orientate aciclice
     - Explicați de ce nu poate fi aplicată soluția pentru grafuri care nu sunt ciclice.
 
