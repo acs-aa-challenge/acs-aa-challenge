@@ -22,7 +22,7 @@ De exemplu, daca ID-ul vostru este "ion.popescu", arhiva **trebuie** să se nume
 
 ## Etapa 2
 
-Vom reveni cu mai multe detalii legate de submisie în curând. (vom folosi vmchecker pentru a valida structura arhivei)
+Vom reveni cu mai multe detalii legate de submisie în curând (vom folosi vmchecker pentru a valida structura arhivei).
 
 În principiu arhiva va conține:
 
