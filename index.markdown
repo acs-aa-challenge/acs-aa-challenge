@@ -79,7 +79,9 @@ hard implicit al acestei etape coincide cu cel pentru ultima etapă.
 
 Submisia voastră va conține:
 1. [20% din punctajul total] **Implementarea efectivă a soluțiilor alese**, respectând indicațiile specificate în secțiunea problemei alese.
-2. [20% din punctajul total] Un **set de teste exhaustiv** pentru verificarea corectitudinii, respectiv eficienței soluțiilor propuse.
+
+3. [20% din punctajul total] Un **set de teste exhaustiv** pentru verificarea corectitudinii, respectiv eficienței soluțiilor propuse.
+
 3. [50% din punctajul total] **Studiul comparativ** început la etapa 1. Acesta va fi structurat în felul următor:
    1. **Introducere** [10%]
    - Descrierea problemei rezolvate. [1%]
