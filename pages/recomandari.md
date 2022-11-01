@@ -24,7 +24,7 @@ petrecut pentru fiecare interogare. De asemenea, dacă structura de date are anu
 - Ne așteptăm **să aveți cel puțin 20 de teste generate**. Nu este necesar să exagerați, să generați 100 de teste, dar o temă cu puține teste va fi punctată corespunzător.
 
 - Ca să fiți siguri că performanțelor obținute nu sunt întâmplătoare, este util să rulați de mai multe ori pe același set de teste și să calculați o medie a valorilor obținute.
-  Vă recomandăm (dar nu este obligatoriu) să folosiți tool-uri de benchmarking (ex: <a href="https://openjdk.org/projects/code-tools/jmh/">jmh</a> (Java),  <a href="https://github.com/google/benchmark">Google Benchmark</a> (C++)) care să vă ajute să automatizați parțial acest aspect.
+  Vă recomandăm (dar nu este obligatoriu) să folosiți tool-uri de benchmarking (ex: hyperfine, <a href="https://openjdk.org/projects/code-tools/jmh/">jmh</a> (Java),  <a href="https://github.com/google/benchmark">Google Benchmark</a> (C++)) care să vă ajute să automatizați parțial acest aspect.
 
 - De asemeni, vă recomandăm să folosiți tool-uri de profiling (ex: <a href="http://www.brendangregg.com/perf.html">perf</a>, <a href="http://valgrind.org/docs/manual/cl-manual.html">valgrind</a>, etc.). pentru a descoperi cu precizie unde este bottleneck-ul codului nostru
 
