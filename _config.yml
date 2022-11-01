@@ -39,6 +39,7 @@ header_pages:
   - pages/probleme.md
   - pages/recomandari.md
   - pages/trimitere.md
+  - pages/forum.md
 
 problem_set:
   - pages/1-hybrid-sorting.md

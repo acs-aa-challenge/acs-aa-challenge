@@ -26,7 +26,6 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
   S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
 
 - (Bonus): Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
-
 - Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste

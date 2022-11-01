@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shortest Path (2)
+title: Cel mai scurt drum (2)
 permalink: /12-allsp/
-tags: [graphs]
+tags: [graphs, all-to-all]
 ---
 
 # Descriere
@@ -11,15 +11,15 @@ Fie un graf $$G$$ cu $$N$$ noduri și $$M$$ muchii. Calculați distanța minimă
 
 # Precizări
 
-- Comparați trei algoritmi din lista de mai jos:
-    - **Dijkstra (aplicat între oricare două noduri) **
-      - Specificați complexitatea cu/fără heap-uri
-    - **Bellman-Ford (aplicat între oricare două noduri)**
+- Comparați cel puțin trei algoritmi din lista de mai jos:
+    - **Dijkstra** (aplicat între oricare două noduri)
+      - Specificați complexitatea cu/fără heap-uri.
+    - **Bellman-Ford** (aplicat între oricare două noduri)
       - Comparați varianta cu, respectiv fără coadă.
     - **Floyd-Warshall**
       - Analizați pe ce tipuri de grafuri este mai eficient decât algoritmii precedenți. 
     - **Johnson**
-      - Explicați de ce poate fi folosit pe grafuri cu muchii de cost negativ
+      - Explicați de ce poate fi folosit pe grafuri cu muchii de cost negativ.
 
 - Particularitățile grafului schimbă rezolvarea (ex: acesta poate fi orientat/neorientat, cu costuri pozitive/negative pe
   muchii, aciclic, dens/rar, etc.).
@@ -34,7 +34,7 @@ Fie un graf $$G$$ cu $$N$$ noduri și $$M$$ muchii. Calculați distanța minimă
 
 #### Format date ieșire
 
-- Afișați matricea de adicentă cu distanțele minime între noduri ($$A[i][j]$$ - distanța minimă de la nodul $$i$$ la nodul $$j$$)
+- Afișați matricea de adicentă cu distanțele minime între noduri ($$A[i][j]$$ - distanța minimă de la nodul $$i$$ la nodul $$j$$).
 - Dacă nu există drum între nodul $$i$$ și nodul $$j$$ veți afișa "NaN" (not a number).
 
 #### Restricții

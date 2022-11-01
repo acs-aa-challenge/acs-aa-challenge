@@ -1,6 +1,6 @@
 ---
 layout: page
-title: String Matching
+title: Potrivirea șirurilor
 permalink: /6-strings-1/
 tags: [strings]
 ---

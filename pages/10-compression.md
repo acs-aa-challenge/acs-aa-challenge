@@ -2,6 +2,7 @@
 layout: page
 title: Compresia datelor
 permalink: /10-compression/
+tags: [lossless compression]
 ---
 
 # Descriere
@@ -12,7 +13,7 @@ Cerința este să comprimați, respectiv să decomprimați, **fără pierdere de
 
 - Trebuie să comparați **doi algoritmi** cunoscuți (e.g. Huffman coding, Lempel-Ziv-Welch (LSW), Arithmetic Coding, etc.) sau variante ale acestora.
 - Pentru a evalua performanța algoritmilor trebuie să analizați cel puțin:
-    - Resursele consumate în timpul procesului de comprimare/decomprimare.
+    - Resursele consumate în timpul procesului de comprimare/decomprimare (timp/memorie).
     - Dimensiunea inițială a fișierului vs. dimensiunea fișierului comprimat.
     
 # Structură recomandată teste

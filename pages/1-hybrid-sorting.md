@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Algoritmi Hibrizi de Sortare
+title: Algoritmi hibrizi de sortare
 permalink: /1-sorting/
+tags: [hybrid algorithms]
 ---
 
 # Descriere

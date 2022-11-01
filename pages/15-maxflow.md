@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MaxFlow
+title: Flux maxim
 permalink: /15-maxflow/
 tags: [graphs, hard]
 ---

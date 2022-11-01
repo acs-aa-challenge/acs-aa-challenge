@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shortest Path (1)
+title: Cel mai scurt drum (1)
 permalink: /11-sp/
-tags: [graphs]
+tags: [graphs, one-to-all]
 ---
 
 # Descriere

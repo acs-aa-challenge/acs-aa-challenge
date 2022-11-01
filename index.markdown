@@ -8,7 +8,8 @@ title: Cerință
 [//]: # (permalink: /cerinta/)
 ---
 
-Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din <a href="/probleme/">lista de probleme</a>. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
+Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din 
+<a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
 Prin această temă ne propunem următoarele obiective:
 
@@ -102,12 +103,14 @@ Submisia voastră va conține:
    5. **Bibliografie** [2%]
 
    **Format document** [2%]:
-   - Pentru realizarea documentului **veți folosi formatul LNCS**. Template-urile pentru Latex si Word sunt 
-   disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). 
-   Temele care nu vor respectă formatul LNCS vor fi penalizate.
+   - Pentru realizarea documentului **veți folosi formatul LNCS**.
+     - Template pentru [LaTeX](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v4) (Vă încurajăm să lucrați direct în LaTeX).
+     - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1). 
+     - Alte informații sunt disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
+   - Temele care nu vor respectă formatul LNCS vor fi penalizate.
 
 **Indicații**
-- Vă recomandăm să lucrați în Latex.
+- Vă recomandăm să lucrați în LaTeX.
 - Este important să respectaţi exact formatul si toate subsecţiunile, pentru a le putea identifica uşor la corectare.
 - Încercați să oferiți cât mai multe detalii și să existe **suficiente** grafice și tabele pentru experimentele făcute de voi.
 Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate informațiile cerute.

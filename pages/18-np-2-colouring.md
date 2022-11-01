@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colorarea Grafurilor
+title: Colorarea grafurilor
 permalink: /18-np-2-colouring/
 tags: [np-complete, graphs, hard]
 ---
@@ -25,7 +25,6 @@ necesare pentru a colora toate nodurile conform restricției menționate anterio
 
 - (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
   S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
-
 - (Bonus): Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste

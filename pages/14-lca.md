@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lowest Common Ancestor
+title: Cel mai mic strămoș comun (LCA)
 permalink: /14-lca/
 tags: ["graphs", "data structures", "hard"]
 ---

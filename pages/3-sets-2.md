@@ -2,7 +2,7 @@
 layout: page
 title: Mulțimi (2)
 permalink: /3-sets-2/
-tags: [data structures]
+tags: [data structures, skiplists, self-balancing bst]
 ---
 
 # Descriere

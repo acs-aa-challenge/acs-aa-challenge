@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traveling Salesman
+title: Problema comis-voiajorului (TSP)
 permalink: /17-np-1-tsp/
 tags: [np-complete, graphs, hard]
 ---
@@ -24,7 +24,6 @@ Puteți porni de la un set de teste existent.
 
 - (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică. 
 S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
-
 - Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste

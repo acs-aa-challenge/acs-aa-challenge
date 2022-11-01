@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knapsack
+title: Problema rucsacului
 permalink: /19-np-3-knapsack/
 tags: [np-complete]
 ---
@@ -16,7 +16,7 @@ iar suma valorilor lor să fie maximă.
 - Aceasta este o problemă NP-Completă.
 - Veți compara cel puțin trei soluții:
   1. Două soluții care garantează întotdeauna un rezultat corect (ex: folosind backtracking/programare dinamică).
-  2. Un algoritm care obține un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
+  2. Un alt algoritm care obține un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
 
 - Discutați care sunt compromisurile ce trebuie făcute pentru implementare și totodată explicați euristicile aplicate.
 - **Este important să măsurați cât de apropiat este rezultatul obținut de soluția voastră de rezultatul corect.**

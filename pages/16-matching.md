@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cuplaj Maxim în Graf Bipartit
+title: Cuplaj maxim în graf bipartit
 permalink: /16-matching/
 tags: [graphs, hard]
 ---
@@ -24,12 +24,6 @@ structura internă a acestuia).
 #### Format date intrare
 
 - Pe prima linie se află două numere, $$N$$ și $$M$$, reprezentând numărul de noduri, respectiv de muchii, separate printr-un spațiu.
-
-[//]: # (- Pe a doua linie se vor afla $$N$$ valori binare: )
-
-[//]: # (  - $$0$$, dacă nodul face parte din mulțimea $$L$$)
-
-[//]: # (  - $$1$$, dacă nodul face parte din mulțimea $$R$$)
 - Pe următoarele $$M$$ linii se află câte două numere naturale $$X$$, $$Y$$, cu semnificația că există o muchie între nodul $$X$$ și $$Y$$
   ($$X$$ din mulțimea $$L$$ și $$Y$$ din mulțimea $$R$$).
 

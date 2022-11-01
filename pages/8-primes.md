@@ -22,7 +22,7 @@ Fiind dat un set de date de intrare se dorește identificarea numerelor prime di
 # Structură teste
 
 #### Format date intrare
-- Pe prima linie, $N$$ (int - numărul de elemente din secvență)
+- Pe prima linie, $$N$$ (int - numărul de elemente din secvență)
 - Pe următoarea linie $$N$$ numere întregi (reprezentabile pe 32 biți)
 
 #### Format date ieșire
