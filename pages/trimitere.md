@@ -10,7 +10,7 @@ permalink: /trimitere/
 Tema va fi alocată folosind un script automat, în funcție de ordinea completării formularului și opțiunile alese,
 astfel încât, la nivelul unei semigrupe, un subiect va fi alocată unui singur student. Studenții restanțieri pot alege orice subiect.
 
-Înscrieți-vă opțiunile de probleme, respectiv algoritmi preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular.
+Înscrieți-vă opțiunile de probleme preferate în acest <a href="https://forms.gle/i7t8nDFVB392YDUj9">acest</a> formular.
 
 [//]: # (  **Formularul va fi accesibil începând cu data de 1.11, la ora 20.** )
 [//]: # (Vineri, 4.11, vom publica alocarea subiectelor pentru fiecare student.)
