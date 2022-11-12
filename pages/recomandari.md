@@ -35,7 +35,7 @@ petrecut pentru fiecare interogare. De asemenea, dacă structura de date are anu
 Referitor la redactare, sunt câteva aspecte importante care trebuie urmărite:
 
 - Textul trebuie să fie **ușor de inteles** și **concis**.
-  - Nu scrieti cu gandul la numarul de pagini. Aveti ce sa scrieti, iar noi oricum evaluăm conținutul, nu numărul de pagini. :-)
+  - Nu scrieti cu gandul la numarul de pagini. Aveti ce sa scrieti iar noi oricum evaluăm conținutul, nu numărul de pagini. :-)
   - Evitati fraze prea lungi. Dacă o frază este prea lungă (>3 randuri), spărgeți-o în două sau mai multe fraze.
   - Daca o sintagmă nu aduce nici o informație suplimentară mai bine nu o folosiți. (ex: “Se observă trivial ca …”).
   - Evitați folosirea unor expresii repetitive ("Așadar.., așadar..", "Deci.., deci..") în aceeași frază/paragraf. Ajută să căutați sinonime pentru a evita repetarea unei expresii.
