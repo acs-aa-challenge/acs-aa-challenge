@@ -32,15 +32,37 @@ petrecut pentru fiecare interogare. De asemenea, dacă structura de date are anu
 
 ## Redactare ##
 
+Referitor la redactare, sunt câteva aspecte importante care trebuie urmărite:
+
+- Textul trebuie să fie **ușor de inteles** și **concis**.
+  - Nu scrieti cu gandul la numarul de pagini. Aveti ce sa scrieti, iar noi oricum evaluăm conținutul, nu numărul de pagini. :-)
+  - Evitati fraze prea lungi. Dacă o frază este prea lungă (>3 randuri), spărgeți-o în două sau mai multe fraze.
+  - Daca o sintagmă nu aduce nici o informație suplimentară mai bine nu o folosiți. (ex: “Se observă trivial ca …”).
+  - Evitați folosirea unor expresii repetitive ("Așadar.., așadar..", "Deci.., deci..") în aceeași frază/paragraf.
+  - Ajută să căutați sinonime pentru a evita repetiții.
+
 - **Evitați afirmațiile vagi**, neargumentate (ex: "după cum se spune", "cel mai folosit algoritm", "cel mai bun algoritm").
-- Dacă preluați o informație, tabel, poza, grafic, etc. este **obligatoriu** să specificați sursa, respectiv să folosiți ghilimele atunci când preluați un paragraf nemodificat.
-- Puteți fi penalizați pentru folosirea unor termeni fară explicarea semnificației lor.
-(ex: "Complexitate $$O(n + r)$$" - fără a specifica cine este '$$r$$')
-- Evitați folosirea unor expresii repetitive ("Așadar.., așadar..", "Deci.., deci..") în aceeași frază/paragraf.
-- La prezentarea algoritmului evitați să puneți prea mult cod direct in lucrare. Ar fi preferabil să prezintați (succint) în cuvinte comportamentul algoritmului (eventual folosind pseuducod) pentru ca cineva care nu știe algoritmul să poată înțelege ușor despre ce este vorba fără să fie nevoit să urmărească secvențe lungi de cod.
-- Pentru a fi ușor de înteles, graficele trebuie să aibă o legendă, respectiv să aibă valorile normalizate.
-- **Specificați unitățile de măsură** folosite in tabele/grafice.
+- Pentru prezentarea unui algoritm evitați să puneți prea mult cod direct in lucrare. 
+  - Ar fi preferabil să prezintați (succint) în cuvinte comportamentul algoritmului (eventual folosind pseuducod) pentru 
+  ca cineva care nu știe algoritmul să poată înțelege ușor despre ce este vorba fără să fie nevoit să urmărească secvențe lungi de cod.
+
+- Folosiți consecvent diateza activă, timpul trecut, pentru a evidenția propriile rezultate.
+  - “**Am facut** X.” (vs.: “S-a facut X.”)
+
+- **Explicați notațiile folosite**.
+  - (ex: "Complexitate $$O(n + r)$$" - trebuie să specificați cine este '$$n$$' și '$$r$$')
+
+- Graficele trebuie să fie **ușor de înteles**.
+  - Să aibă o legendă clară (“higher is better”).
+  - Să fie menționate **unitățile de măsură** folosite.
+  - Să aibă valori normalizate (daca este cazul) pentru a se putea distinge între elementele afișate.
+  - Să aibă o rezoluție bună (ex: să poate fi ușor de citit în format print).
+
 - Într-un tabel în care comparați performanța unor algoritmi marcați cu bold cel mai bun rezultat.
-- Pentru editarea referințelor, puteți folosi funcția "cite" din Google Scholar. Mai multe detalii <a href="https://libguides.com.edu/c.php?g=649172&p=4554037">aici</a>.
-- Dacă doriți să adăugați o referință la un website, menționați data ultimei accesări.
-- Nu folosiți Wikipedia ca referință directă.
+  - Specificați **unitățile de măsura**.
+
+- Dacă preluați o informație/tabel/poza/grafic, etc. este **obligatoriu** să specificați explicit sursa în locul unde
+  ați folosit informația, respectiv să folosiți ghilimele atunci când preluați un paragraf nemodificat.
+  - Pentru editarea referințelor, puteți folosi funcția "cite" din Google Scholar. Un exemplu este disponibil <a href="https://libguides.com.edu/c.php?g=649172&p=4554037">aici</a>.
+  - Nu folosiți Wikipedia ca referință directă.
+  - În general, nu citați generic un portal (ex: www.geeksforgeeks.org); Citați explicit pagina care a fost relevantă pentru voi și menționați data accesării.
