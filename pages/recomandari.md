@@ -43,23 +43,24 @@ Referitor la redactare, sunt câteva aspecte importante care trebuie urmărite:
 
 - **Evitați afirmațiile vagi**, neargumentate (ex: "după cum se spune", "cel mai folosit algoritm", "cel mai bun algoritm").
 - Pentru prezentarea unui algoritm evitați să puneți prea mult cod direct in lucrare. 
-  - Ar fi preferabil să prezintați (succint) în cuvinte comportamentul algoritmului (eventual folosind pseuducod) pentru 
+  - Ar fi preferabil să prezentați, succint, în cuvinte, comportamentul algoritmului (eventual folosind pseuducod) pentru 
   ca cineva care nu știe algoritmul să poată înțelege ușor despre ce este vorba fără să fie nevoit să urmărească secvențe lungi de cod.
 
-- Folosiți consecvent diateza activă, timpul trecut, pentru a evidenția propriile rezultate.
-  - “**Am facut** X.” (vs.: “S-a facut X.”)
+- Folosiți consecvent **diateza activă**, timpul trecut, pentru a evidenția propriile rezultate.
+  - “**Am facut** X.” (vs. “S-a facut X.”)
 
 - **Explicați notațiile folosite**.
   - (ex: "Complexitate $$O(n + r)$$" - trebuie să specificați cine este '$$n$$' și '$$r$$')
 
 - Graficele trebuie să fie **ușor de înteles**.
-  - Să aibă o legendă clară (“higher is better”).
+  - Să aibă o legendă clară.
   - Să fie menționate **unitățile de măsură** folosite.
   - Să aibă valori normalizate (daca este cazul) pentru a se putea distinge între elementele afișate.
   - Să aibă o rezoluție bună (ex: să poate fi ușor de citit în format print).
 
 - Într-un tabel în care comparați performanța unor algoritmi marcați cu bold cel mai bun rezultat.
   - Specificați **unitățile de măsura**.
+  - Oferiți o interpretare în text pentru informațiile prezentate în fiecare grafic/tabel. 
 
 - Dacă preluați o informație/tabel/poza/grafic, etc. este **obligatoriu** să specificați explicit sursa în locul unde
   ați folosit informația, respectiv să folosiți ghilimele atunci când preluați un paragraf nemodificat.
