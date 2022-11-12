@@ -38,12 +38,11 @@ Referitor la redactare, sunt câteva aspecte importante care trebuie urmărite:
   - Nu scrieti cu gandul la numarul de pagini. Aveti ce sa scrieti, iar noi oricum evaluăm conținutul, nu numărul de pagini. :-)
   - Evitati fraze prea lungi. Dacă o frază este prea lungă (>3 randuri), spărgeți-o în două sau mai multe fraze.
   - Daca o sintagmă nu aduce nici o informație suplimentară mai bine nu o folosiți. (ex: “Se observă trivial ca …”).
-  - Evitați folosirea unor expresii repetitive ("Așadar.., așadar..", "Deci.., deci..") în aceeași frază/paragraf.
-  - Ajută să căutați sinonime pentru a evita repetiții.
+  - Evitați folosirea unor expresii repetitive ("Așadar.., așadar..", "Deci.., deci..") în aceeași frază/paragraf. Ajută să căutați sinonime pentru a evita repetarea unei expresii.
 
 - **Evitați afirmațiile vagi**, neargumentate (ex: "după cum se spune", "cel mai folosit algoritm", "cel mai bun algoritm").
 - Pentru prezentarea unui algoritm evitați să puneți prea mult cod direct in lucrare. 
-  - Ar fi preferabil să prezentați, succint, în cuvinte, comportamentul algoritmului (eventual folosind pseuducod) pentru 
+  - Este preferabil să prezentați, succint, în cuvinte, comportamentul algoritmului (eventual folosind pseuducod) pentru 
   ca cineva care nu știe algoritmul să poată înțelege ușor despre ce este vorba fără să fie nevoit să urmărească secvențe lungi de cod.
 
 - Folosiți consecvent **diateza activă**, timpul trecut, pentru a evidenția propriile rezultate.
