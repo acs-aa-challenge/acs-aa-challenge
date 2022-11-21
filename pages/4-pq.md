@@ -16,6 +16,10 @@ specific unei cozi de prioritate:
 
 # Precizări
 
+- Veți compara o structură de tip heap (ex: heap binar) cu un arbore binar de căutare **echilibrat** (AVL, Treap-uri, Arbori roșu-negru, etc. - la alegere)
+- Menționați ce avantaje oferă o structură de date față de cealaltă (ex: complexitate, ce operații suplimentare pot fi implementare eficient, etc.).
+- Pentru arbori binari de căutare echilibrați trebuie prezentată doar pe scurt complexitatea temporală pentru cazul cel mai defavorabil.
+
 # Structură teste
 
 #### Format date intrare
