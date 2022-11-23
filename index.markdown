@@ -104,7 +104,7 @@ Submisia voastră va conține:
 
    **Format document** [2%]:
    - Pentru realizarea documentului **veți folosi formatul LNCS**.
-     - Template pentru [LaTeX](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v4) (Vă încurajăm să lucrați direct în LaTeX).
+     - Template pentru [LaTeX](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) (Vă încurajăm să lucrați direct în LaTeX).
      - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1). 
      - Alte informații sunt disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
    - Temele care nu vor respectă formatul LNCS vor fi penalizate.
