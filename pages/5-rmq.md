@@ -6,7 +6,9 @@ tags: [data structures]
 ---
 
 # Descriere
-Dat fiind un vector $$A$$ cu $$N$$ elemente de tip întreg, răspundeți eficient la întrebări de tipul: "Care este elementul minim din intervalul care începe la poziția $$x$$ și se termină la poziția $$y$$?". Se consideră că se dă vectorul și apoi se fac $$M$$ interogări, fără a se modifica între timp vectorul.
+Dat fiind un vector $$A$$ cu $$N$$ elemente de tip întreg, răspundeți eficient la întrebări de tipul: "Care este elementul minim din intervalul care începe la poziția $$x$$ și se termină la poziția $$y$$?". Se consideră că se dă vectorul și apoi se fac $$M$$ interogări.
+
+<!-- , fără a se modifica între timp vectorul. -->
 
 # Precizări
 
