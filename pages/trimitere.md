@@ -58,7 +58,7 @@ Veți încărca pe Moodle o arhivă care va conține:
 
     - Numele și grupa.
     - Ce reprezintă fiecare fișier din arhivă.
-    - ID-ul testului pe care propuneți pentru competiție.
+    - ID-ul testului pe care îl propuneți pentru competiție.
     - Alte detalii speciale legate de evaluare (e.g. algoritmul asociat fiecărei reguli de run, versiunea compilatorului).
     - **Sursele exacte dacă ați preluat conținut din surse externe (e.g. teste, secvență de cod)**.
         - Mentionați referința directă (de exemplu, pagina web/pagina dintr-o carte/lucrare de cercetare)
