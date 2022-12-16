@@ -8,6 +8,8 @@ title: Cerință
 [//]: # (permalink: /cerinta/)
 ---
 
+**Update**: <a href="https://acs-aa-challenge.github.io/acs-aa-challenge/evaluator_status/">Status</a> verificare automata submisii trimise (beta).
+
 Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din 
 <a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
