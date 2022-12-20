@@ -76,7 +76,10 @@ hard implicit al acestei etape coincide cu cel pentru ultima etapă.
 [//]: # (Acesta etapă va avea un deadline **soft**, cu penalizări de 5% din punctajul etapei pentru fiecare zi de întârziere. Penalizările sunt limitate la cel mult 30% din punctajul total alocat etapei. Deadline-ul hard al acestei etape coincide cu cel pentru etapa 3.)
 
 ### Etapa 2 - 90% din punctajul total
-#### Deadline - 21.12.2022 (deadline soft) - 09.01.2022 (deadline hard)
+#### ~~Deadline - 21.12.2022 (deadline soft) - 09.01.2023 (deadline hard)~~
+#### Deadline - 22.12.2022 (deadline soft) - 09.01.2023 (deadline hard)
+#### Submisiile trimise pana pe 23.12.2022 23:55 (vineri) primesc o penalizare de 10%.
+#### Submisiile trimise pana pe 09.01.2023 23:55 primesc o penalizare de 20%.
 
 [//]: # (Pentru această etapă veți finaliza studiul comparativ început la etapa 1. Acesta va fi structurat în felul următor:)
 
@@ -118,5 +121,5 @@ Submisia voastră va conține:
 Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate informațiile cerute.
 - Orientativ, o lucrare bună va avea 8-10 pagini dar nu punctăm numărul propriu-zis de pagini, ci conținutul acestora.
 
-Acesta etapă va avea un deadline **soft**, cu penalizări de 10% din punctajul etapei pentru fiecare zi de întârziere.
+~~Acesta etapă va avea un deadline **soft**, cu penalizări de 10% din punctajul etapei pentru fiecare zi de întârziere.~~
 Atenție, acesta etapă are un deadline **hard** (care nu va fi schimbat)!
