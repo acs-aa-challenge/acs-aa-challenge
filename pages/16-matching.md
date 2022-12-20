@@ -38,6 +38,6 @@ că nodul $$X$$ a fost cuplat cu nodul $$Y$$.
 
 - $$ 1 \leq N \leq 2 * 10^4$$
 - $$ 1 \leq S \leq M \leq min(N^2, 10^5)$$
-- $$ 1 \leq X, Y \leq N$$
+- $$ 0 \leq X, Y < N$$
 - $$ -10^6 \leq C \leq 10^6$$
 - Nodurile sunt numerotate de la 0 la $$N-1$$.

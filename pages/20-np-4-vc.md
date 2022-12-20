@@ -45,5 +45,5 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 - $$ 1 \leq K \leq N \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
-- $$ 1 \leq X, Y \leq N$$
+- $$ 0 \leq X, Y < N$$
 - Nodurile sunt numerotate de la 0 la N-1.

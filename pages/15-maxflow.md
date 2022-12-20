@@ -38,6 +38,6 @@ de exemplu $$M << N, M = N, M = N log N, M = N * \sqrt N, M\sim\ {N^2}$$.
 
 - $$ 1 \leq N \leq 10^3$$
 - $$ 1 \leq M \leq min(N^2, 10^4)$$
-- $$ 1 \leq X, Y \leq N$$
+- $$ 0 \leq X, Y < N$$
 - $$ 1 \leq C \leq 10^6$$
 - Nodurile sunt numerotate de la 0 la $$N-1$$.

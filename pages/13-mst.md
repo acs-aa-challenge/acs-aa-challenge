@@ -33,6 +33,6 @@ format de acestea să fie aciclic, să cuprindă toate nodurile din graful origi
 
 - $$ 1 \leq N \leq 2 * 10^5$$
 - $$ 1 \leq M \leq 5 * min(N^2, 10^5)$$
-- $$ 1 \leq X, Y \leq N$$
+- $$ 0 \leq X, Y < N$$
 - $$ -10^6 \leq Z, S \leq 10^6$$
 - Nodurile sunt numerotate de la 0 la $$N-1$$.

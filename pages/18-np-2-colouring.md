@@ -43,5 +43,5 @@ necesare pentru a colora toate nodurile conform restricției menționate anterio
 
 - $$ 1 \leq K \leq N \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
-- $$ 1 \leq X, Y \leq N$$
+- $$ 0 \leq X, Y < N$$
 - Nodurile și culorile sunt numerotate de la 0.

@@ -43,5 +43,5 @@ Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgra
 
 - $$ 1 \leq N, K \leq 20$$
 - $$ 1 \leq M \leq N*(N-1)$$
-- $$ 1 \leq X, Y \leq N$$
+- $$ 0 \leq X, Y < N$$
 - Nodurile sunt numerotate de la 0 la N-1.
