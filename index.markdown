@@ -78,8 +78,8 @@ hard implicit al acestei etape coincide cu cel pentru ultima etapă.
 ### Etapa 2 - 90% din punctajul total
 #### ~~Deadline - 21.12.2022 (deadline soft) - 09.01.2023 (deadline hard)~~
 #### Deadline - 22.12.2022 (deadline soft) - 09.01.2023 (deadline hard)
-#### Submisiile trimise pana pe 23.12.2022 23:55 (vineri) primesc o penalizare de 10%.
-#### Submisiile trimise pana pe 09.01.2023 23:55 primesc o penalizare de 20%.
+#### Submisiile trimise pana pe 23.12.2022 23:59 (vineri) primesc o penalizare de 10%.
+#### Submisiile trimise pana pe 09.01.2023 23:59 primesc o penalizare de 20%.
 
 [//]: # (Pentru această etapă veți finaliza studiul comparativ început la etapa 1. Acesta va fi structurat în felul următor:)
 
