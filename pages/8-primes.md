@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Identificare numerelor prime
+title: Identificarea numerelor prime
 permalink: /8-primes/
 tags: ["math"]
 ---
