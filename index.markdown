@@ -20,6 +20,8 @@ Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul 
 
 **Important**: Puteți propune rezolvarea unei probleme diferite de cele din listă care vă pasionează dar să ne contactați înainte pe forum.
 
+## Prezentarea
+
 Prezentarea (~12 min.) va conține obligatoriu următoarele secțiuni:
 
 1. **Introducere** [1%]
@@ -44,7 +46,6 @@ Prezentarea (~12 min.) va conține obligatoriu următoarele secțiuni:
    - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [6%]
 
 6. **Bibliografie** [0.5%]
-
 
 ### Submisia voastră va conține:
 
