@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AA Challenge 2023
+title: AA Challenge 2024
 email: radu.iacob@upb.ro
 description: >- # this means to ignore newlines until "baseurl:"
   AA Challenge 2023
@@ -42,26 +42,31 @@ header_pages:
 #  - pages/forum.md
 
 problem_set:
-  - pages/1-hybrid-sorting.md
-  - pages/2-sets-1.md
-  - pages/3-sets-2.md
-  - pages/4-pq.md
-  - pages/5-rmq.md
-  - pages/6-strings-1.md
-  - pages/7-strings-2.md
-  - pages/8-primes.md
-  - pages/9-eq.md
-  - pages/10-compression.md
-  - pages/11-shortestpath.md
-  - pages/12-allp-shortestpath.md
-  - pages/13-mst.md
-  - pages/14-lca.md
-  - pages/15-maxflow.md
-  - pages/16-matching.md
+#  - pages/1-hybrid-sorting.md
+#  - pages/2-sets-1.md
+#  - pages/3-sets-2.md
+#  - pages/4-pq.md
+#  - pages/5-rmq.md
+#  - pages/6-strings-1.md
+#  - pages/7-strings-2.md
+#  - pages/8-primes.md
+#  - pages/9-eq.md
+#  - pages/10-compression.md
+#  - pages/11-shortestpath.md
+#  - pages/12-allp-shortestpath.md
+#  - pages/13-mst.md
+#  - pages/14-lca.md
+#  - pages/15-maxflow.md
+#  - pages/16-matching.md
   - pages/17-np-1-tsp.md
   - pages/18-np-2-colouring.md
-  - pages/19-np-3-knapsack.md
   - pages/20-np-4-vc.md
+  - pages/np-5-is.md
+  - pages/np-6-kclique.md
+  - pages/np-7-steinertree.md
+  - pages/19-np-3-knapsack.md
+  - pages/np-8-bin-packing.md
+
 #  - pages/20-np-4-clique.md
 
 # Exclude from processing.

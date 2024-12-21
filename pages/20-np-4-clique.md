@@ -12,10 +12,9 @@ Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Există un subgra
 
 # Precizări
 
-- Aceasta este o problemă NP-Completă.
-- Veți compara cel puțin două soluții:
+- Veți compara cel puțin trei soluții:
     1. O soluție care obține întotdeauna rezultatul corect (e.g. backtracking).
-    2. Un algoritm care obține un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
+    2. Doi algoritmi care obțin un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
 
 - Discutați care sunt compromisurile ce trebuie făcute pentru implementare și totodată explicați euristicile aplicate.
 - **Este important să măsurați cât de apropiat este rezultatul obținut de soluția voastră de rezultatul corect.**
