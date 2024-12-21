@@ -7,7 +7,7 @@ tags: [np-complete, packing, hard]
 
 # Descriere
 
-Fie o colecție de $$N$$ obiecte și o capacitate maximă reprezentată de numărul natural $$C$$. Cum putem partiționa colecția inițială într-un număr minim de submulțimi ($$K$$) astfel încât suma mărimilor din fiecare submulțime să fie mai mică sau egală cu $C$?
+Fie o colecție de $$N$$ obiecte și o capacitate maximă reprezentată de numărul natural $$C$$. Cum putem partiționa colecția inițială într-un număr minim de submulțimi ($$K$$) astfel încât suma mărimilor din fiecare submulțime să fie mai mică sau egală cu $$C$$?
 
 # Precizări
 

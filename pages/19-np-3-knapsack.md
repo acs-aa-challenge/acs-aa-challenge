@@ -13,7 +13,6 @@ iar suma valorilor lor să fie maximă.
 
 # Precizări
 
-- Aceasta este o problemă NP-Completă.
 - Veți compara cel puțin trei soluții:
   1. Două soluții care garantează întotdeauna un rezultat corect (ex: folosind backtracking/programare dinamică).
   2. Un alt algoritm care obține un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
