@@ -21,7 +21,7 @@
 title: AA Challenge 2024
 email: radu.iacob@upb.ro
 description: >- # this means to ignore newlines until "baseurl:"
-  AA Challenge 2023
+  AA Challenge 2024
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
