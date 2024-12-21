@@ -20,8 +20,6 @@ Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul 
 
 **Important**: Puteți propune rezolvarea unei probleme diferite de cele din listă care vă pasionează dar să ne contactați înainte pe forum.
 
-## Detalii Submisie
-
 Prezentarea (~12 min.) va conține obligatoriu următoarele secțiuni:
 
 1. **Introducere** [1%]
@@ -56,10 +54,10 @@ Prezentarea (~12 min.) va conține obligatoriu următoarele secțiuni:
 2. Un **set de teste exhaustiv** pentru verificarea corectitudinii, respectiv eficienței soluțiilor propuse.
     - Documentați alegerile făcute într-un fișier Readme.
 
-3. Un **document** (raport) care va urma secțiunile din prezentare.
+3. Un **raport** (un document) care va urma secțiunile din prezentare.
 
 ## Indicații
-- Pentru realizarea documentului **veți folosi formatul LNCS**.
+- Pentru realizarea raportului **veți folosi formatul LNCS**.
    - Alte informații sunt disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
    - Template pentru [LaTeX](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) (Vă încurajăm să lucrați direct în LaTeX).
    - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1). 
