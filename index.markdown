@@ -8,7 +8,7 @@ title: Cerință
 
 Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din 
 <a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. 
-Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Puteți propune rezolvarea unei probleme NPC diferite de cele din listă care vă pasionează.
+Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Dacă doriți, puteți propune rezolvarea unei probleme NPC diferite de cele din listă care vă pasionează.
 
 Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
@@ -63,8 +63,7 @@ Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din documen
     - Descrierea pe scurt a abordărilor analizate.
 - **Evaluare**
     - Ilustrarea și interpretarea rezultatelor.
-
-
+    
 ## Indicații
 - Pentru realizarea raportului **veți folosi formatul LNCS**.
    - Alte informații sunt disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
@@ -76,3 +75,8 @@ Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din documen
 - Încercați să oferiți cât mai multe detalii și să existe **suficiente** grafice și tabele pentru experimentele făcute de voi.
 Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate informațiile cerute.
 - Orientativ, o lucrare bună va avea 8-10 pagini dar nu punctăm numărul propriu-zis de pagini, ci conținutul acestora.
+
+- Dacă nu ați reușit să vă găsiți echipă, prezentarea și raportul pot fi simplificate. Astfel, va trebui să prezentați
+demonstrația că problema aleasă este NP-Hard, respectiv să faceți o comparație (avantaje/dezavantaje) a cel puțin doi algoritmi diferiți care
+rezolvă problema.
+
