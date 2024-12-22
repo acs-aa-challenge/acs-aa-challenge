@@ -18,8 +18,6 @@ Prin această temă ne propunem următoarele obiective:
 - Îmbunătățirea abilității de a analiza și a compara performanța mai multor soluții.
 - Dezvoltarea abilității de a interpreta și prezenta rezultatele analizei.
 
-**Important**:  dar să ne contactați înainte pe forum.
-
 ### Submisia voastră va conține:
 
 1. **Implementarea efectivă a soluțiilor alese**, respectând indicațiile specificate în secțiunea problemei alese.
