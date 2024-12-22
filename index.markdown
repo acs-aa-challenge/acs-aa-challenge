@@ -1,5 +1,5 @@
 ---
-# Analiza Algoritmilor - Challenge 2023
+# Analiza Algoritmilor - Challenge 2024
 
 layout: home
 title: Cerință
@@ -17,6 +17,8 @@ Prin această temă ne propunem următoarele obiective:
 - Familiarizarea cu o problemă importantă de algoritmică și aplicațiile sale practice.
 - Îmbunătățirea abilității de a analiza și a compara performanța mai multor soluții.
 - Dezvoltarea abilității de a interpreta și prezenta rezultatele analizei.
+
+Pentru alegerea problemei, menționați 
 
 ### Submisia voastră va conține:
 
@@ -79,4 +81,3 @@ Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate in
 - Dacă nu ați reușit să vă găsiți echipă, prezentarea și raportul pot fi simplificate. Astfel, va trebui să prezentați
 demonstrația că problema aleasă este NP-Hard, respectiv să faceți o comparație (avantaje/dezavantaje) a cel puțin doi algoritmi diferiți care
 rezolvă problema.
-
