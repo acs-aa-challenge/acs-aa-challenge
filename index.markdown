@@ -6,8 +6,11 @@ title: Cerință
 [//]: # (permalink: /cerinta/)
 ---
 
-Realizați un studiu comparativ privind principalii algoritmi care rezolvă o aleasă de voi, din 
-<a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
+Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din 
+<a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. 
+Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Puteți propune rezolvarea unei probleme NPC diferite de cele din listă care vă pasionează.
+
+Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
 Prin această temă ne propunem următoarele obiective:
 
@@ -15,37 +18,7 @@ Prin această temă ne propunem următoarele obiective:
 - Îmbunătățirea abilității de a analiza și a compara performanța mai multor soluții.
 - Dezvoltarea abilității de a interpreta și prezenta rezultatele analizei.
 
-Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul alocat acestei activități este de 1.5p din nota totală.
-În cadrul prezentării fiecare membru al echipei va trebui să răspundă la câteva întrebări referitoare la oricare dintre secțiuni.
-
-**Important**: Puteți propune rezolvarea unei probleme diferite de cele din listă care vă pasionează dar să ne contactați înainte pe forum.
-
-## Prezentarea
-
-Prezentarea (~12 min.) va conține obligatoriu următoarele secțiuni:
-
-1. **Introducere** [1%]
-   - Descrierea problemei rezolvate [0.5%]
-   - Exemple de aplicații practice pentru problema aleasă. [0.5%]
-    
-2. **Demonstrație NP-Hard** [30%]
-   - Reducere de la o altă problemă cunoscută NP-Hard. [30%]
-
-3. **Prezentare Algoritmi** [15%]
-   - Descrierea modului în care funcționează algoritmii aleși. [2.5%]
-   - Analiza complexitații soluțiilor. [10%]
-   - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [2.5%]    
-
-4. **Evaluare** [40.5%]
-   - Descrierea modalitații de construire a setului de teste folosite pentru validare. [10%]
-   - Menționați specificațiile sistemului de calcul pe care ați rulat testele (procesor, memorie disponibilă). [0.5%]
-   - Ilustrarea, folosind grafice/tabele, a rezultatelor evaluării soluțiilor pe setul de teste. [20%]
-   - Interpretarea, succintă, a valorilor obținute pe teste. Dacă apar valori neașteptate, încercați să oferiți o explicație. [10%]
-
-5. **Concluzii** [13%]
-   - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [6%]
-
-6. **Bibliografie** [0.5%]
+**Important**:  dar să ne contactați înainte pe forum.
 
 ### Submisia voastră va conține:
 
@@ -55,14 +28,51 @@ Prezentarea (~12 min.) va conține obligatoriu următoarele secțiuni:
 2. Un **set de teste exhaustiv** pentru verificarea corectitudinii, respectiv eficienței soluțiilor propuse.
     - Documentați alegerile făcute într-un fișier Readme.
 
-3. Un **raport** (un document) care va urma secțiunile din prezentare.
+3. Un **raport** (un document) care va avea obligatoriu următoarea structură:
+
+1. **Introducere** [1%]
+   - Descrierea problemei rezolvate [0.5%]
+   - Exemple de aplicații practice pentru problema aleasă. [0.5%]
+    
+2. **Demonstrație NP-Hard** [30%]
+   - Reducere de la o altă problemă cunoscută NP-Hard. [30%]
+
+3. **Prezentare Algoritmi** [20%]
+   - Descrierea modului în care funcționează algoritmii aleși. [4%]
+   - Analiza complexitații soluțiilor. [10%]
+   - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [5%]    
+
+4. **Evaluare** [40.5%]
+   - Descrierea modalității de construire a setului de teste folosite pentru validare. [10%]
+   - Menționați specificațiile sistemului de calcul pe care ați rulat testele (SO, procesor, memorie disponibilă). [0.5%]
+   - Ilustrarea, folosind grafice/tabele, a rezultatelor evaluării soluțiilor pe setul de teste. [20%]
+   - Interpretarea, succintă, a valorilor obținute pe teste. Dacă apar valori neașteptate, încercați să oferiți o explicație. [10%]
+
+5. **Concluzii** [5%]
+   - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [5%]
+
+6. **Bibliografie** [1.0%]
+
+## Prezentare
+
+Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul alocat acestei activități este de 1.5p din nota totală.
+În cadrul prezentării fiecare membru al echipei va trebui să răspundă la câteva întrebări referitoare la oricare dintre secțiunile din raport.
+
+Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din document:
+
+- **Demonstrația NP-Hard**
+- **Prezentare algoritmi**
+    - Descrierea pe scurt a abordărilor analizate.
+- **Evaluare**
+    - Ilustrarea și interpretarea rezultatelor.
+
 
 ## Indicații
 - Pentru realizarea raportului **veți folosi formatul LNCS**.
    - Alte informații sunt disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
    - Template pentru [LaTeX](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) (Vă încurajăm să lucrați direct în LaTeX).
    - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1). 
-   - Temele care nu vor respectă formatul LNCS vor fi penalizate.
+   - Temele care nu respectă formatul LNCS vor fi penalizate.
 - Vă recomandăm să lucrați în LaTeX.
 - Este important să respectaţi exact formatul si toate subsecţiunile, pentru a le putea identifica uşor la corectare.
 - Încercați să oferiți cât mai multe detalii și să existe **suficiente** grafice și tabele pentru experimentele făcute de voi.

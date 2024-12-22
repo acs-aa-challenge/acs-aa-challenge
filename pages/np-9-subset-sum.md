@@ -23,8 +23,7 @@ Identificați o submulțime de obiecte, astfel încât suma valorilor acestora s
 
 - Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
-- (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
-  S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
+- S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
 
 # Structură teste
 

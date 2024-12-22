@@ -18,13 +18,12 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 - Discutați care sunt compromisurile ce trebuie făcute pentru implementare și totodată explicați euristicile aplicate.
 - **Este important să măsurați cât de apropiat este rezultatul obținut de soluția voastră de rezultatul corect.**
+
 - Alegeți testele suficient de mici astfel încât să puteți rula un algoritm care garantează un rezultat corect într-un timp rezonabil.
   Puteți porni de la un set de teste existent.
 
-- (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
-  S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
-
-- (Bonus): Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
+- Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică. S-ar putea obține rezultate mai bune 
+  folosind algoritmul ales dacă am investi mai multe resurse?
 - Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste
@@ -38,7 +37,7 @@ fiecare muchie din graf are cel puțin un capăt printre cele $$K$$ noduri?
 
 - Pe prima linie afișați $$K$$.
 - Pe a doua linie afișați indicii celor $$K$$ noduri, separate prin spații.
-- Dacă există mai multe soluțiî, se poate afișa oricare.
+- Dacă există mai multe soluții, se poate afișa oricare.
 
 #### Restricții
 

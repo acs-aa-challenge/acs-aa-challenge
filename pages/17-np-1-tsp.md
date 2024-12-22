@@ -21,8 +21,7 @@ conține fiecare nod din graf o singură dată?
 - Alegeți testele suficient de mici astfel încât să puteți rula un algoritm care garantează un rezultat corect într-un timp rezonabil. 
 Puteți porni de la un set de teste existent.
 
-- (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică. 
-S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
+- Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică. S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
 - Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste

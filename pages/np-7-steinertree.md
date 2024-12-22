@@ -7,10 +7,12 @@ tags: [np-complete, graphs, hard]
 
 # Descriere
 
-Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii având asociate costuri pozitive. De asemeni, fie o submulțime $$T$$ de noduri.
-Determniați un subgraf aciclic conex al lui $$G$$ care conține toate nodurile din $$T$$ de cost **minim**.
+Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii având asociate costuri pozitive. De asemenea, fie o submulțime $$T$$ de noduri.
+Determinați un subgraf aciclic conex al lui $$G$$, de cost **minim**, care conține toate nodurile din $$T$$.
 
 # Precizări
+
+- Costul unui subgraf este determinat de suma costurilor muchiilor sale.
 
 - Veți compara cel puțin trei soluții:
     1. O soluție care obține întotdeauna rezultatul corect (e.g. backtracking).
@@ -21,10 +23,9 @@ Determniați un subgraf aciclic conex al lui $$G$$ care conține toate nodurile 
 - Alegeți testele suficient de mici astfel încât să puteți rula un algoritm care garantează un rezultat corect într-un timp rezonabil.
   Puteți porni de la un set de teste existent.
 
-- (Bonus): Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
+- Discuție despre ce strategie/combinație de algoritmi ați aplica pentru a rezolva problema în practică.
   S-ar putea obține rezultate mai bune folosind algoritmul ales dacă am investi mai multe resurse?
 
-- (Bonus): Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 - Există soluții particulare care au o performanță bună garantată pe anumite tipuri de intrări?
 
 # Structură teste
