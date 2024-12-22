@@ -9,6 +9,7 @@ title: Cerință
 Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din 
 <a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. 
 Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Dacă doriți, puteți propune rezolvarea unei probleme NPC diferite de cele din listă care vă pasionează.
+Puteți să specificați problema aleasă <a href="https://docs.google.com/spreadsheets/d/1K6xJrYpeJW9037EcyX8m1TbwKELxbUYd6Z4jmB3ujTs/edit?gid=0#gid=0">aici</a>.
 
 Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
