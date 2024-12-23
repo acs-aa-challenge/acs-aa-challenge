@@ -37,6 +37,7 @@ necesare pentru a colora toate nodurile conform restricției menționate anterio
 
 - Pe prima linie, afișați $$K$$, numărul minim de culori necesare.
 - Pe a doua linie afișați $$N$$ valori, separate prin spațiu, reprezentând culorile asociate fiecărui nod.
+- Dacă există mai multe soluții, se poate afișa oricare.
 
 #### Restricții
 

@@ -36,7 +36,7 @@ Fie un graf neorientat $$G$$ cu $$N$$ noduri și $$M$$ muchii. Identificați cli
 
 - Pe prima linie afișați $$K$$ (numărul de noduri din clica de dimensiune maximă).
 - Pe a doua linie afișați indicii celor $$K$$ noduri, separate prin spații.
-- Dacă există mai multe soluțiî, se poate afișa oricare.
+- Dacă există mai multe soluții, se poate afișa oricare.
 
 #### Restricții
 

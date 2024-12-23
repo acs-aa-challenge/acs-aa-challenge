@@ -37,7 +37,7 @@ Puteți porni de la un set de teste existent.
 - Pe prima linie se va afla $$S$$, lungimea celui mai scurt traseu, dacă acesta există. 
 - Pe a doua linie se vor afla $$N$$ numere, reprezentând ordinea în care vor fi vizitate nodurile de pe traseul ales.
 - Altfel, dacă un traseu care să respecte condițiile problemei nu există, veți afișa doar mesajul "Nu există soluție.".
-- 
+
 #### Restricții
 
 - $$ 1 \leq N \leq 20$$

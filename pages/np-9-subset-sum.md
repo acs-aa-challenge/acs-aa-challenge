@@ -36,6 +36,7 @@ Identificați o submulțime de obiecte, astfel încât suma valorilor acestora s
 
 - Pe prima linie se află numărul de obiecte alese din mulțime.
 - Pe a doua linie se vor afla indicii obiectelor selectate.
+- Dacă există mai multe soluții, se poate afișa oricare.
 
 #### Restricții
 

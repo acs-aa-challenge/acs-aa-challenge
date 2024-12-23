@@ -37,6 +37,7 @@ asociată fiecărui obiect.
 
 - Pe prima linie se află valoarea maximă care poate fi obținută.
 - Pe a doua linie se vor afla indicii elementelor selectate.
+- Dacă există mai multe soluții, se poate afișa oricare.
 
 #### Restricții
 
