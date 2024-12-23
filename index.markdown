@@ -30,28 +30,28 @@ Prin această temă ne propunem următoarele obiective:
 
 3. Un **raport** (un document) care va avea obligatoriu următoarea structură:
 
-1. **Introducere** [1%]
-   - Descrierea problemei rezolvate [0.5%]
-   - Exemple de aplicații practice pentru problema aleasă. [0.5%]
-    
-2. **Demonstrație NP-Hard** [30%]
-   - Reducere de la o altă problemă cunoscută NP-Hard la varianta de decizie a problemei abordate. [30%]
+    1. **Introducere** [1%]
+       - Descrierea problemei rezolvate [0.5%]
+       - Exemple de aplicații practice pentru problema aleasă. [0.5%]
+        
+    2. **Demonstrație NP-Hard** [30%]
+       - Reducere de la o altă problemă cunoscută NP-Hard la varianta de decizie a problemei abordate. [30%]
 
-3. **Prezentare Algoritmi** [20%]
-   - Descrierea modului în care funcționează algoritmii aleși. [4%]
-   - Analiza complexitații soluțiilor. [10%]
-   - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [5%]    
+    3. **Prezentare Algoritmi** [20%]
+       - Descrierea modului în care funcționează algoritmii aleși. [4%]
+       - Analiza complexitații soluțiilor. [10%]
+       - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [5%]    
 
-4. **Evaluare** [40.5%]
-   - Descrierea modalității de construire a setului de teste folosite pentru validare. [10%]
-   - Menționați specificațiile sistemului de calcul pe care ați rulat testele (SO, procesor, memorie disponibilă). [0.5%]
-   - Ilustrarea, folosind grafice/tabele, a rezultatelor evaluării soluțiilor pe setul de teste. [20%]
-   - Interpretarea, succintă, a valorilor obținute pe teste. Dacă apar valori neașteptate, încercați să oferiți o explicație. [10%]
+    4. **Evaluare** [40.5%]
+       - Descrierea modalității de construire a setului de teste folosite pentru validare. [10%]
+       - Menționați specificațiile sistemului de calcul pe care ați rulat testele (SO, procesor, memorie disponibilă). [0.5%]
+       - Ilustrarea, folosind grafice/tabele, a rezultatelor evaluării soluțiilor pe setul de teste. [20%]
+       - Interpretarea, succintă, a valorilor obținute pe teste. Dacă apar valori neașteptate, încercați să oferiți o explicație. [10%]
 
-5. **Concluzii** [5%]
-   - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [5%]
+    5. **Concluzii** [5%]
+       - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [5%]
 
-6. **Bibliografie** [1.0%]
+    6. **Bibliografie** [1.0%]
 
 ## Prezentare
 
