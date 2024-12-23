@@ -2,7 +2,7 @@
 layout: page
 title: Bin Packing
 permalink: /np-8-bin-packing/
-tags: [np-complete, packing, hard]
+tags: [np-complete, packing]
 ---
 
 # Descriere

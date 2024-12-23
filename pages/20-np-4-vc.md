@@ -2,7 +2,7 @@
 layout: page
 title: Vertex Cover
 permalink: /20-np-4-vc/
-tags: [np-complete, graphs, hard]
+tags: [np-complete, graphs]
 ---
 
 # Descriere

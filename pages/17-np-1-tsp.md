@@ -2,7 +2,7 @@
 layout: page
 title: Problema comis-voiajorului (TSP)
 permalink: /17-np-1-tsp/
-tags: [np-complete, graphs, hard]
+tags: [np-complete, graphs]
 ---
 
 # Descriere

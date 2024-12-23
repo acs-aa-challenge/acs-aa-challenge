@@ -2,7 +2,7 @@
 layout: page
 title: Steiner Tree
 permalink: /np-7-steinertree/
-tags: [np-complete, graphs, hard]
+tags: [np-complete, graphs]
 ---
 
 # Descriere

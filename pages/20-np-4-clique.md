@@ -2,7 +2,7 @@
 layout: page
 title: K-Clique
 permalink: /20-np-4-clique/
-tags: [np-complete, graphs, hard]
+tags: [np-complete, graphs]
 ---
 
 # Descriere
