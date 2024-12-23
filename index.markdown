@@ -70,7 +70,7 @@ Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din documen
 - Pentru realizarea raportului **veți folosi formatul LNCS**.
    - Alte informații sunt disponibile [aici](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
    - Template pentru [LaTeX](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) (Vă încurajăm să lucrați direct în LaTeX).
-   - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1). 
+   - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v3). 
    - Temele care nu respectă formatul LNCS vor fi penalizate.
 - Vă recomandăm să lucrați în LaTeX.
 - Este important să respectaţi exact formatul si toate subsecţiunile, pentru a le putea identifica uşor la corectare.
