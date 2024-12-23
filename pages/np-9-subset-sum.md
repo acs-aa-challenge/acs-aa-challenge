@@ -2,7 +2,7 @@
 layout: page
 title: Subset Sum
 permalink: /np-9-subset-sum/
-tags: [np-hard]
+tags: [np-complete, packing]
 ---
 
 # Descriere

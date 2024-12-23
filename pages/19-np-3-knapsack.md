@@ -2,7 +2,7 @@
 layout: page
 title: Problema rucsacului
 permalink: /19-np-3-knapsack/
-tags: [np-hard]
+tags: [np-complete, packing]
 ---
 
 # Descriere
