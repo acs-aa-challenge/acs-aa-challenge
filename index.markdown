@@ -37,7 +37,7 @@ Pentru alegerea problemei, menționați
    - Exemple de aplicații practice pentru problema aleasă. [0.5%]
     
 2. **Demonstrație NP-Hard** [30%]
-   - Reducere de la o altă problemă cunoscută NP-Hard. [30%]
+   - Reducere de la o altă problemă cunoscută NP-Hard la varianta de decizie a problemei abordate. [30%]
 
 3. **Prezentare Algoritmi** [20%]
    - Descrierea modului în care funcționează algoritmii aleși. [4%]
