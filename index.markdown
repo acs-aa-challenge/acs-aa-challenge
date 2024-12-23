@@ -80,6 +80,7 @@ Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din documen
 Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate informațiile cerute.
 - Orientativ, o lucrare bună va avea 8-10 pagini dar nu punctăm numărul propriu-zis de pagini, ci conținutul acestora.
 
+- Puteți forma echipe cu membrii din grupe/serii diferite, singura condiție este să prezentați în același interval orar.
 - Dacă nu ați reușit să vă găsiți echipă, prezentarea și raportul pot fi simplificate. Astfel, va trebui să prezentați
 demonstrația că problema aleasă este NP-Hard, respectiv să faceți o comparație (avantaje/dezavantaje) a cel puțin doi algoritmi diferiți care
 rezolvă problema.
