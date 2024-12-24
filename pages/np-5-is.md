@@ -2,7 +2,7 @@
 layout: page
 title: Independent Set
 permalink: /np-5-is/
-tags: [np-complete, graphs, hard]
+tags: [np-complete, graphs]
 ---
 
 # Descriere
@@ -38,7 +38,7 @@ fiecare muchie din graf are **cel mult** un capăt printre cele $$K$$ noduri?
 
 - Pe prima linie afișați $$K$$.
 - Pe a doua linie afișați indicii celor $$K$$ noduri, separate prin spații.
-- Dacă există mai multe soluțiî, se poate afișa oricare.
+- Dacă există mai multe soluții, se poate afișa oricare.
 
 #### Restricții
 
