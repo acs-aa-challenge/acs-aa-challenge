@@ -38,7 +38,7 @@ Prin această temă ne propunem următoarele obiective:
        - Reducere de la o altă problemă cunoscută NP-Hard la varianta de decizie a problemei abordate. [30%]
 
     3. **Prezentare Algoritmi** [20%]
-       - Descrierea modului în care funcționează algoritmii aleși. [4%]
+       - Descrierea modului în care funcționează algoritmii aleși. [5%]
        - Analiza complexitații soluțiilor. [10%]
        - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [5%]    
 
@@ -51,7 +51,7 @@ Prin această temă ne propunem următoarele obiective:
     5. **Concluzii** [5%]
        - Precizați, în urma analizei făcute, cum ați aborda problema în practică; în ce situații ați opta pentru una din soluțiile alese. [5%]
 
-    6. **Bibliografie** [1.0%]
+    6. **Bibliografie** [2.5%]
 
 ## Prezentare
 
