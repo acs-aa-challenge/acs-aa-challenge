@@ -30,8 +30,8 @@ Prin această temă ne propunem următoarele obiective:
 
 3. Un **raport** (un document) care va avea obligatoriu următoarea structură:
 
-    1. **Introducere** [1%]
-       - Descrierea problemei rezolvate [0.5%]
+    1. **Introducere** [1.5%]
+       - Descrierea problemei rezolvate [1.0%]
        - Exemple de aplicații practice pentru problema aleasă. [0.5%]
         
     2. **Demonstrație NP-Hard** [30%]
@@ -42,9 +42,9 @@ Prin această temă ne propunem următoarele obiective:
        - Analiza complexitații soluțiilor. [10%]
        - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [5%]    
 
-    4. **Evaluare** [40.5%]
+    4. **Evaluare** [41.0%]
        - Descrierea modalității de construire a setului de teste folosite pentru validare. [10%]
-       - Menționați specificațiile sistemului de calcul pe care ați rulat testele (SO, procesor, memorie disponibilă). [0.5%]
+       - Menționați specificațiile sistemului de calcul pe care ați rulat testele (SO, procesor, memorie disponibilă). [1.0%]
        - Ilustrarea, folosind grafice/tabele, a rezultatelor evaluării soluțiilor pe setul de teste. [20%]
        - Interpretarea, succintă, a valorilor obținute pe teste. Dacă apar valori neașteptate, încercați să oferiți o explicație. [10%]
 
