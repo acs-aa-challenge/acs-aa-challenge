@@ -30,7 +30,7 @@ necesare pentru a colora toate nodurile conform restricției menționate anterio
 
 #### Format date intrare
 
-- Pe prima linie se află trei numere, $$N$$, $$M$$.
+- Pe prima linie se află două numere naturale, $$N$$ și $$M$$.
 - Pe următoarele $$M$$ linii se află câte 2 numere naturale $$X$$, $$Y$$, cu semnificația că există o muchie între nodul X și Y.
 
 #### Format date ieșire
