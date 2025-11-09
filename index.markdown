@@ -1,5 +1,5 @@
 ---
-# Analiza Algoritmilor - Challenge 2024
+# Analiza Algoritmilor - Challenge 2025-2026
 
 layout: home
 title: Cerință
@@ -10,7 +10,7 @@ Realizați un studiu comparativ privind principalii algoritmi care rezolvă o pr
 <a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. 
 Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Dacă doriți, puteți propune rezolvarea unei probleme NPC diferite de cele din listă care vă pasionează.
 
-**Puteți alege problema pentru echipa voastră <a href="https://docs.google.com/spreadsheets/d/1K6xJrYpeJW9037EcyX8m1TbwKELxbUYd6Z4jmB3ujTs/edit?gid=0#gid=0">aici</a>.**
+**Puteți alege problema pentru echipa voastră <a href="https://docs.google.com/spreadsheets/d/1b0bNjdiuP16qO5Llwp00mKR_vBdbZs6TVqvlUP2os5M/edit?usp=sharing">aici</a>.**
 
 Studiul va fi realizat pe seturi de date cât mai variate, propuse de voi, care să evidențieze principalele criterii de alegere (avantaje, dezavantaje) pentru algoritmii analizați. 
 
@@ -55,7 +55,7 @@ Prin această temă ne propunem următoarele obiective:
 
 ## Prezentare
 
-Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul alocat acestei activități este de 1.5p din nota totală.
+Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul alocat acestei activități este de 1 din nota totală.
 În cadrul prezentării fiecare membru al echipei va trebui să răspundă la câteva întrebări referitoare la oricare dintre secțiunile din raport.
 
 Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din document:
