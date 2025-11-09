@@ -55,7 +55,7 @@ Prin această temă ne propunem următoarele obiective:
 
 ## Prezentare
 
-Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul alocat acestei activități este de 1 din nota totală.
+Rezultatele studiului vor fi prezentate în cadrul ultimului seminar. Punctajul alocat acestei activități este de 1p din nota totală.
 În cadrul prezentării fiecare membru al echipei va trebui să răspundă la câteva întrebări referitoare la oricare dintre secțiunile din raport.
 
 Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din document:
