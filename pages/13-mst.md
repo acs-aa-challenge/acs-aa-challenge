@@ -27,7 +27,7 @@ format de acestea să fie aciclic, să cuprindă toate nodurile din graful origi
 
 - Pe prima linie se va afișa $$S$$, reprezentând suma costurilor muchiilor selectate.
 - Pe următoarele $$N-1$$ linii se află câte două numere naturale $$X$$, $$Y$$, separate prin spațiu, cu semnificația
-  că muchia care leaga nodurile $$X$$ și $$Y$$ face parte din arborele parțial de cost minim.
+  că muchia care leagă nodurile $$X$$ și $$Y$$ face parte din arborele parțial de cost minim.
 
 #### Restricții
 

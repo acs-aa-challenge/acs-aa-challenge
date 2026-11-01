@@ -27,7 +27,7 @@ Dat fiind un vector $$A$$ cu $$N$$ elemente de tip întreg, răspundeți eficien
 
 #### Format date intrare    
   - Pe prima linie, $$N$$ (int - numărul de elemente din secvență), $$M$$ numărul de interogări
-  - Pe a doua linie, $$N$$ elemente (numere întregi - reprezentabile pe 32 biti)
+  - Pe a doua linie, $$N$$ elemente (numere întregi - reprezentabile pe 32 de biți)
   - Pe următoarele $$M$$ linii, câte o pereche de numere întregi $$(x, y)$$ reprezentând poziții din secvență.
 
 #### Format date ieșire    

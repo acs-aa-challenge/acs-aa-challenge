@@ -7,7 +7,7 @@ tags: [strings, data structures]
 
 # Descriere
 
-Distanța Levenshtein reprezintă numărul minim de operatii de editare (inserări, ștergeri, substituții) 
+Distanța Levenshtein reprezintă numărul minim de operații de editare (inserări, ștergeri, substituții) 
 necesare pentru a transforma un string în alt string.
 
 Cerința este să descoperiți, pentru un cuvânt A, toate cuvintele din dicționar aflate la o distanță Levenshtein mai
@@ -18,7 +18,7 @@ mică decât K.
 - Pentru această problemă veți compara calcularea directă a distanței Levenshtein între două cuvinte folosind programare dinamică,
 respectiv optimizarea posibilă folosind structura de date Trie.
 
-- (Bonus) Soluția cu programare dinamică poate fi implementată atăt iterativ, cât și recursiv cu memoizare. Care sunt avantajele fiecărei implementări?
+- (Bonus) Soluția cu programare dinamică poate fi implementată atât iterativ, cât și recursiv cu memoizare. Care sunt avantajele fiecărei implementări?
 - (Bonus) Puteți aborda și alte metrici folosite pentru măsurarea distanței de editare (Damerau–Levenshtein, Hamming, Smith–Waterman, etc.).
 
 # Structură teste
@@ -31,9 +31,9 @@ respectiv optimizarea posibilă folosind structura de date Trie.
 
 #### Format date ieșire
 
-- Pe prima linie se va afla M, numărul de cuvinte din dicționar aflate la o distanta Levenshtein mai mică
+- Pe prima linie se va afla M, numărul de cuvinte din dicționar aflate la o distanță Levenshtein mai mică
 decât K față de cuvântul A.
-- Pe următoarele M linii se vor afla cuvintele care respectă condiția, ordonate în funcție de distantă, respectiv lexicografic.
+- Pe următoarele M linii se vor afla cuvintele care respectă condiția, ordonate în funcție de distanță, respectiv lexicografic.
 
 #### Restricții
 

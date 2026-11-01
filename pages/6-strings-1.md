@@ -7,7 +7,7 @@ tags: [strings]
 
 # Descriere
 
-Fie doua secvențe de caractere, A și B. Identificați toate aparițiile șirului A ca subsecvență a lui B.
+Fie două secvențe de caractere, A și B. Identificați toate aparițiile șirului A ca subsecvență a lui B.
 
 # Precizări
 
@@ -20,7 +20,7 @@ Rabin-Karp și Boyer-Moore.
   putem micșora această probabilitate. 
   - Discutați ce tipuri de funcții hash putem folosi în implementare.
 - Boyer-Moore:
-  - Pentru ce fel de date se comporta mai bine decât KMP?
+  - Pentru ce fel de date se comportă mai bine decât KMP?
 
 # Structură teste
 

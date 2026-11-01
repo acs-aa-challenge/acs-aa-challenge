@@ -8,18 +8,18 @@ tags: [graphs, hard]
 # Descriere
 
 Fie un graf orientat cu $$N$$ noduri și $$M$$ muchii. Fiecare muchie are o anumită capacitate - prin fiecare muchie putem 
-transporta o anumită cantitate de informaţie. Mai mult, există un nod special numit sursă, $$S$$, de unde poate pleca oricâtă 
-informaţie, şi un nod special numit destinaţie, $$D$$, care poate primi oricâtă informaţie. Singura limitare este dată de 
-capacităţile muchiilor. Astfel, antitatea de informație care intră într-un nod trebuie să fie egală cu cea care iese din nod
-(cu excepția nodurilor $$S$$ si $$D$$). Se cere să se determine capacitatea maximă care poate fi transmisă de la $$S$$ la $$D$$.
+transporta o anumită cantitate de informație. Mai mult, există un nod special numit sursă, $$S$$, de unde poate pleca oricâtă 
+informație, și un nod special numit destinație, $$D$$, care poate primi oricâtă informație. Singura limitare este dată de 
+capacitățile muchiilor. Astfel, cantitatea de informație care intră într-un nod trebuie să fie egală cu cea care iese din nod
+(cu excepția nodurilor $$S$$ și $$D$$). Se cere să se determine capacitatea maximă care poate fi transmisă de la $$S$$ la $$D$$.
 
 # Precizări
 
 - Comparați trei algoritmi (ex: Ford-Fulkerson, Edmonds-Karp, Dinic, Push-relabel, etc.)
   - Puteți opta pentru un algoritm naiv (Ford-Fulkerson) și doi mai eficienți.
-- Testați folosind grafuri cu dimensiuni variabile, respectiv dimensiuni variabile relative între N şi M, 
+- Testați folosind grafuri cu dimensiuni variabile, respectiv dimensiuni variabile relative între N și M, 
 de exemplu $$M << N, M = N, M = N log N, M = N * \sqrt N, M\sim\ {N^2}$$.
-- Analizați și cum influențează structura internă a grafului performanța algoritmiilor.
+- Analizați și cum influențează structura internă a grafului performanța algoritmilor.
 
 # Structură teste
 

@@ -32,8 +32,8 @@ Determinați un subgraf aciclic conex al lui $$G$$, de cost **minim**, care con�
 
 #### Format date intrare
 
-- Pe prima linie se află două numere, $$N$$, $$M$$ și numărul $$T$$.
-- Pe a doua linie se află $$T$$ numere, reprezentănd indexul nodurilor care trebuie conectate.
+- Pe prima linie se află trei numere, $$N$$, $$M$$ și $$T$$.
+- Pe a doua linie se află $$T$$ numere, reprezentând indexul nodurilor care trebuie conectate.
 - Pe următoarele $$M$$ linii se află câte 3 numere naturale $$X$$, $$Y$$, $$C$$, cu semnificația că există o muchie între nodul $$X$$ și $$Y$$
   de lungime $$C$$.
 

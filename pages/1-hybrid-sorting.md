@@ -8,7 +8,7 @@ tags: [hybrid algorithms]
 # Descriere
 
 Se dau $$N$$ elemente comparabile (e.g. numere întregi), într-o ordine oarecare. Se pune problema
-sortării lor in ordine crescătoare.
+sortării lor în ordine crescătoare.
 
 # Precizări
 

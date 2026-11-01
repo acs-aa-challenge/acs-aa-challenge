@@ -7,7 +7,7 @@ tags: [graphs, one-to-all]
 
 # Descriere
 
-Fie un graf $$G$$ cu $$N$$ noduri și $$M$$ muchii. Calculați distanța minimă de la un nod S și toate celelalte
+Fie un graf $$G$$ cu $$N$$ noduri și $$M$$ muchii. Calculați distanța minimă de la un nod S la toate celelalte
 noduri din graf.
 
 # Precizări
@@ -19,7 +19,7 @@ noduri din graf.
     - Comparați varianta cu, respectiv fără coadă.
   - **Dijkstra - adaptat pentru costuri foarte mici ale muchiilor** (Dial's algorithm)
   - O soluție cu complexitate liniară pentru grafuri orientate aciclice
-    - Explicați de ce nu poate fi aplicată soluția pentru grafuri care nu sunt ciclice.
+    - Explicați de ce nu poate fi aplicată soluția pentru grafuri care conțin cicluri.
 
 - Particularitățile grafului schimbă rezolvarea (ex: acesta poate fi orientat/neorientat, cu costuri pozitive/negative pe
 muchii, aciclic, dens/rar, etc.).

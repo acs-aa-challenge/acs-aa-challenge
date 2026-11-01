@@ -34,7 +34,7 @@ Fie un graf $$G$$ cu $$N$$ noduri și $$M$$ muchii. Calculați distanța minimă
 
 #### Format date ieșire
 
-- Afișați matricea de adicentă cu distanțele minime între noduri ($$A[i][j]$$ - distanța minimă de la nodul $$i$$ la nodul $$j$$).
+- Afișați matricea de adiacență cu distanțele minime între noduri ($$A[i][j]$$ - distanța minimă de la nodul $$i$$ la nodul $$j$$).
 - Dacă nu există drum între nodul $$i$$ și nodul $$j$$ veți afișa "NaN" (not a number).
 
 #### Restricții

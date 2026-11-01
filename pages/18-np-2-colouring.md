@@ -13,7 +13,7 @@ necesare pentru a colora toate nodurile conform restricției menționate anterio
 
 # Precizări
 
-- Veți compara cel puțin două soluții:
+- Veți compara cel puțin trei soluții:
     1. O soluție care obține întotdeauna rezultatul corect (e.g. backtracking).
     2. Doi algoritmi care obțin un răspuns apropiat de cel corect și consumă o cantitate rezonabilă de resurse (spațiu/timp) pentru orice instanță a problemei. (e.g. o euristică nebanală a cărei complexitate și funcționalitate să puteți să o prezentați).
 
