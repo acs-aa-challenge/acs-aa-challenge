@@ -10,7 +10,7 @@ tags: [data structures, hashtables, self-balancing bst]
 Pentru acest subiect veți compara structuri de date care pot fi folosite pentru a reprezenta API-ul 
 specific unei mulțimi:
 
-- Adâugarea unui element.
+- Adăugarea unui element.
 - Ștergerea elementului minim (/maxim).
 - Afișarea elementului minim (/maxim).
 - Modificarea unui element din mulțime.
@@ -19,7 +19,7 @@ specific unei mulțimi:
 # Precizări
 
 - Veți compara tabelele de dispersie cu un arbore binar de căutare echilibrat (AVL, Treap-uri, Arbori roșu-negru, etc.)
-- Menționați ce avantaje oferă o structură de date față de cealaltă (ex: complexitate, ce operații suplimentare pot fi implementare eficient, etc.).
+- Menționați ce avantaje oferă o structură de date față de cealaltă (ex: complexitate, ce operații suplimentare pot fi implementate eficient, etc.).
 - Pentru tabele de dispersie trebuie să faceți o analiză a metodelor de evitare a coliziunilor. Este suficient să explicați în ce situații sunt mai potrivite unele decât altele (înlănțuire vs. adresare deschisă). Explicați cum puteți trata cazul când nu știți dinainte toate operațiile care vor fi aplicate structurii (nici măcar un număr aproximativ al lor - varianta online). Explicați de ce nu există această problemă și în cazul arborilor. Explicați ce proprietăți ar trebui să aibă o funcție hash ca să fie considerată bună. Precizați doar complexitatea cazului mediu și a celui defavorabil, cu o scurtă argumentare pentru fiecare (referitor doar la complexitatea temporală).
 - Pentru arbori binari de căutare echilibrați trebuie prezentată doar pe scurt complexitatea temporală pentru cazul cel mai defavorabil.
 
@@ -35,7 +35,7 @@ specific unei mulțimi:
     - 4 - Afișarea tuturor elementelor mulțimii
 
 #### Format date ieșire
-  - Fișierul de ieșire va conține output-ul, **pe câte o linie**, corespunzător interogărilor de tipul 2, respectiv 4 (daca acestea există în fișierul de intrare). 
+  - Fișierul de ieșire va conține output-ul, **pe câte o linie**, corespunzător interogărilor de tipul 2, respectiv 4 (dacă acestea există în fișierul de intrare). 
   - Pentru interogări de tipul 2, răspunsul va fi 1 (dacă elementul există) sau 0 (altfel).
   - Pentru interogări de tipul 4, răspunsul va consta în secvența de elemente, în orice ordine.
 

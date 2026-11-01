@@ -1,13 +1,13 @@
 ---
-# Analiza Algoritmilor - Challenge 2025-2026
+# Analiza Algoritmilor - Challenge 2026-2027
 
 layout: home
 title: Cerință
-[//]: # (permalink: /cerinta/)
+# permalink: /cerinta/
 ---
 
 Realizați un studiu comparativ privind principalii algoritmi care rezolvă o problemă aleasă de voi, din 
-<a href="https://acs-aa-challenge.github.io/acs-aa-challenge/probleme/">lista de probleme</a>. 
+<a href="{{ '/probleme/' | relative_url }}">lista de probleme</a>. 
 Problemele din listă sunt variante de optimizare ale unor probleme NPC cunoscute. Dacă doriți, puteți propune rezolvarea unei probleme NPC diferite de cele din listă care vă pasionează.
 
 **Puteți alege problema pentru echipa voastră <a href="https://docs.google.com/spreadsheets/d/1b0bNjdiuP16qO5Llwp00mKR_vBdbZs6TVqvlUP2os5M/edit?usp=sharing">aici</a>.**
@@ -39,7 +39,7 @@ Prin această temă ne propunem următoarele obiective:
 
     3. **Prezentare Algoritmi** [20%]
        - Descrierea modului în care funcționează algoritmii aleși. [5%]
-       - Analiza complexitații soluțiilor. [10%]
+       - Analiza complexității soluțiilor. [10%]
        - Prezentarea principalelor avantaje și dezavantaje pentru soluțiile luate în considerare. [5%]    
 
     4. **Evaluare** [41.0%]
@@ -73,7 +73,7 @@ Prezentarea propriu-zisă (~12 min.) se va concentra pe trei aspecte din documen
    - Template pentru [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v3). 
    - Temele care nu respectă formatul LNCS vor fi penalizate.
 - Vă recomandăm să lucrați în LaTeX.
-- Este important să respectaţi exact formatul si toate subsecţiunile, pentru a le putea identifica uşor la corectare.
+- Este important să respectați exact formatul și toate subsecțiunile, pentru a le putea identifica ușor la corectare.
 - Încercați să oferiți cât mai multe detalii și să existe **suficiente** grafice și tabele pentru experimentele făcute de voi.
 Veți avea nevoie de minim 2-3 tabele/minim 2-3 grafice pentru a expune toate informațiile cerute.
 - Orientativ, o lucrare bună va avea 8-10 pagini dar nu punctăm numărul propriu-zis de pagini, ci conținutul acestora.

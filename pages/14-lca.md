@@ -22,7 +22,7 @@ Se dă un arbore $$T$$ cu $$N$$ noduri și apoi se fac $$M$$ interogări. Pentru
 
 #### Format date intrare
 - Pe prima linie: $$N$$ (int - numărul de noduri din arbore), $$M$$ (int - numărul de interogări).
-- Pe următoarele $$N-1$$ linii: câte o pereche de numere întregi, reprezentănd muchiile arborelui.
+- Pe următoarele $$N-1$$ linii: câte o pereche de numere întregi, reprezentând muchiile arborelui.
 - Pe fiecare dintre următoarele $$M$$ linii se vor afla id-urile a câte două noduri, $$u$$ și $$v$$, reprezentând o interogare.
 
 #### Format date ieșire
